@@ -19,6 +19,8 @@ The **Self-Regulated Learning (SRL) framework**, developed by Barry Zimmerman, d
 
 **Application in teaching:** I use this framework to encourage students to take responsibility for their learning. By setting objectives, monitoring progress, and reflecting on outcomes, students gradually become more independent learners. As a teacher, I support this process through guidance, feedback, and reflection activities.
 
+**How I apply this framework:** My experience teaching Software Engineering, Functional Programming, and Systems Thinking at Fontys has shown me the importance of helping students structure their learning and monitor their own progress. When organising workshops and supervising internship students, I encourage learners to define objectives, divide complex tasks into manageable activities, evaluate their progress, and reflect on their results. I also apply this principle to my own professional development through academic research, professional activities, and online courses, including Udemy. I believe that students learn more effectively when they understand not only what they need to learn, but also how to manage and evaluate their own learning process.
+
 ## Zone of Proximal Development – Vygotsky
 
 ```mermaid
@@ -41,3 +43,4 @@ The framework distinguishes between:
 
 **Application in teaching:** I aim to provide sufficient support to help students overcome challenges without removing the responsibility for learning from them. Through explanations, examples, questions, and gradually reduced assistance (scaffolding), I help students develop confidence and independence.
 
+**How I apply this framework:** My experience teaching and supervising students has taught me that learners have different levels of prior knowledge, confidence, and practical experience. I therefore try to identify what students can already accomplish independently and where additional guidance is needed. For example, when teaching programming, I can initially provide explanations, code examples, and structured exercises before gradually introducing more complex problems that students must solve independently. During internship supervision, I use questions, feedback, and targeted guidance to help students overcome difficulties rather than immediately providing solutions. My objective is to gradually reduce the amount of support as students develop the knowledge and confidence to work independently. I also consider it important to create a safe learning environment in which students can ask questions, experiment, and make mistakes without fear of judgement.
