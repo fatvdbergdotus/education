@@ -2,30 +2,32 @@
 
 Education methods describe the different approaches used to organise and facilitate the learning process. They determine the roles and responsibilities of instructors and students, the degree of student autonomy, and the ways in which knowledge and skills are acquired. Different educational approaches, such as course-based, demand-based, research-based, and open learning, offer varying levels of flexibility, independence, and structure. These approaches can be compared using four dimensions: self-management, choice of content, choice of approach, and predictability. Understanding these dimensions helps explain the characteristics of each method and how they influence the overall learning experience.
 
-![Properties of teaching methods](teachingmethods.png)
+![Dimensions of teaching methods](teachingmethods.png)
 
-### 1. Self-management
+## Explanation of Dimensions
+
+#### 1. Self-management
 
 Self-management describes the extent to which students are responsible for managing their own learning process. It includes planning learning activities, setting goals, managing time, monitoring progress, and evaluating learning outcomes.
 
 - **Lower:** The instructor determines the learning schedule, activities, and pace.
 - **Higher:** Students take responsibility for planning, organising, and evaluating their own learning.
 
-### 2. Choice of content
+#### 2. Choice of content
 
 Choice of content describes how much freedom students have to determine what they learn. It concerns the extent to which students can select topics, subjects, learning materials, and specific knowledge areas.
 
 - **Lower:** Learning content is predefined by the curriculum or instructor.
 - **Higher:** Students can select topics based on their interests, needs, and learning objectives.
 
-### 3. Choice of approach
+#### 3. Choice of approach
 
 Choice of approach describes the freedom students have to decide how they acquire knowledge and develop skills. It concerns the learning strategies, methods, tools, and activities used during the educational process.
 
 - **Lower:** The instructor prescribes the learning methods, activities, and resources.
 - **Higher:** Students can choose their own learning strategies, resources, and methods to achieve the learning objectives.
 
-### 4. Predictability
+#### 4. Predictability
 
 Predictability describes how structured and predictable the learning environment is, including learning activities, expectations, outcomes, and assessment methods.
 
