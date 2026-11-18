@@ -15,7 +15,7 @@ flowchart LR
     E --> A
 ```
 
-The **ALACT model**, developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
+The **ALACT model** [1][#ref1], developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
 
 The model is based on the idea that professional development does not happen simply through gaining experience. Experience becomes valuable for development when professionals actively reflect on what happened, examine their decisions, consider alternative approaches, and apply what they have learned in new situations.
 
@@ -314,3 +314,7 @@ I believe that effective teaching requires continuous reflection and a willingne
 **How I apply this framework:** I use Gibbs' Reflective Cycle to examine specific teaching situations in greater detail. For example, when a programming exercise proves difficult for students, I first describe the situation and consider how students responded. I then reflect on my own feelings and expectations, evaluate what worked well and what did not, and analyse possible causes. These might include the complexity of the exercise, students' prior knowledge, the clarity of my explanation, or the amount of guidance provided. Based on this analysis, I identify what I could have done differently and formulate an action plan, such as introducing additional examples, dividing the exercise into smaller steps, or providing more opportunities for practice. I can then apply these changes in a subsequent session and evaluate their effectiveness.
 
 Both frameworks support my belief that professional development is a continuous process. Teaching is not simply about transferring knowledge; it also requires teachers to remain open to feedback, question their own assumptions, and learn from experience. I aim to create a learning environment in which students feel safe to make mistakes and learn from them, while demonstrating the same willingness to reflect and improve in my own teaching practice.
+
+# References
+<a id="ref1"></a> Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
+
