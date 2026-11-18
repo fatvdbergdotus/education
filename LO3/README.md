@@ -316,7 +316,7 @@ I believe that effective teaching requires continuous reflection and a willingne
 Both frameworks support my belief that professional development is a continuous process. Teaching is not simply about transferring knowledge; it also requires teachers to remain open to feedback, question their own assumptions, and learn from experience. I aim to create a learning environment in which students feel safe to make mistakes and learn from them, while demonstrating the same willingness to reflect and improve in my own teaching practice.
 
 # References
-- <a id="ref1"></a> Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
-- <a id="ref2"></a> Korthagen, Fred AJ. "Promoting core reflection in teacher education: Deepening professional growth." (2014).
-- <a id="ref3"></a> Korthagen, Fred AJ. "How teacher education can make a difference." Journal of education for teaching 36.4 (2010): 407-423.
+- <a id="ref1"></a> [1] Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
+- <a id="ref2"></a> [2] Korthagen, Fred AJ. "Promoting core reflection in teacher education: Deepening professional growth." (2014).
+- <a id="ref3"></a> [3] Korthagen, Fred AJ. "How teacher education can make a difference." Journal of education for teaching 36.4 (2010): 407-423.
 
