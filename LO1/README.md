@@ -13,13 +13,19 @@ flowchart LR
     C --> A
 ```
 
-The **Self-Regulated Learning (SRL) framework**, developed by Barry Zimmerman, describes how students actively manage their own learning through three cyclical phases:
+The **Self-Regulated Learning (SRL) framework**, developed by educational psychologist **Barry Zimmerman**, explains how students take an active role in managing and improving their own learning. Self-regulated learning means that students do not simply follow instructions or depend entirely on their teacher. Instead, they learn to set their own goals, select appropriate learning strategies, monitor their progress, and evaluate the effectiveness of their approach.
 
-1. **Forethought:** Students analyse learning tasks, set goals, and plan strategies.
-2. **Performance:** Students implement their strategies, monitor progress, and manage their efforts.
-3. **Self-reflection:** Students evaluate their performance and identify improvements for future learning.
+An important characteristic of this framework is that learning is viewed as a **cyclical process**. Students use their experiences and reflections from previous learning activities to prepare for new ones. The framework consists of three interconnected phases:
 
-**Application in teaching:** I use this framework to encourage students to take responsibility for their learning. By setting objectives, monitoring progress, and reflecting on outcomes, students gradually become more independent learners. As a teacher, I support this process through guidance, feedback, and reflection activities.
+1. **Forethought:** Before starting a learning activity, students analyse what they need to learn, establish learning goals, and plan how to achieve them.
+2. **Performance:** While carrying out the learning activity, students apply their planned strategies, monitor their progress, and regulate their time, effort, and attention.
+3. **Self-reflection:** After completing the activity, students evaluate their results and learning process, identify what worked well and what could be improved, and use these insights to guide their next learning activity.
+
+The three phases are closely related. The forethought phase determines how students approach a learning task, the performance phase concerns how they execute and monitor their approach, and the self-reflection phase allows them to evaluate the outcome. The insights gained during reflection then influence the goals and strategies chosen for the next learning activity.
+
+**The teacher's role** is to help students develop these self-regulation skills. This includes making learning objectives clear, providing appropriate learning strategies and resources, offering constructive feedback, and encouraging students to reflect on their progress. As students become more capable of regulating their own learning, the teacher can gradually reduce the amount of guidance and give them greater responsibility.
+
+The ultimate aim of the SRL framework is to help students become **independent, motivated, and reflective learners** who can take responsibility for their own development, adapt their learning strategies when necessary, and continue learning throughout their professional lives.
 
 **How I apply this framework:** My experience teaching Software Engineering, Functional Programming, and Systems Thinking at Fontys has shown me the importance of helping students structure their learning and monitor their own progress. When organising workshops and supervising internship students, I encourage learners to define objectives, divide complex tasks into manageable activities, evaluate their progress, and reflect on their results. I also apply this principle to my own professional development through academic research, professional activities, and online courses, including Udemy. I believe that students learn more effectively when they understand not only what they need to learn, but also how to manage and evaluate their own learning process.
 
