@@ -15,7 +15,7 @@ flowchart LR
     E --> A
 ```
 
-The **ALACT model** [1][#ref1], developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
+The **ALACT model** [1](#ref1), developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
 
 The model is based on the idea that professional development does not happen simply through gaining experience. Experience becomes valuable for development when professionals actively reflect on what happened, examine their decisions, consider alternative approaches, and apply what they have learned in new situations.
 
