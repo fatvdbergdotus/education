@@ -1,5 +1,7 @@
 # Education methods
 
+![Properties of teaching methods](teachingmethods.png)
+
 ## Course-based learning
 Course-based learning is a structured educational approach in which students follow a predefined curriculum consisting of lectures, tutorials, practical assignments, and assessments. The learning objectives, content, and pace are primarily determined by the instructor or educational institution. This approach provides students with a systematic introduction to a subject, ensuring that essential theoretical knowledge and practical skills are acquired progressively.
 
