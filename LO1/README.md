@@ -13,7 +13,8 @@ flowchart LR
     C --> A
 ```
 
-The **Self-Regulated Learning (SRL) framework**, developed by educational psychologist **Barry Zimmerman**, explains how students take an active role in managing and improving their own learning. Self-regulated learning means that students do not simply follow instructions or depend entirely on their teacher. Instead, they learn to set their own goals, select appropriate learning strategies, monitor their progress, and evaluate the effectiveness of their approach.
+The **Self-Regulated Learning (SRL) framework** [[1]](#ref1)[[2]](#ref2)[[3]](#ref3)[[4]](#ref4)
+, developed by educational psychologist **Barry Zimmerman**, explains how students take an active role in managing and improving their own learning. Self-regulated learning means that students do not simply follow instructions or depend entirely on their teacher. Instead, they learn to set their own goals, select appropriate learning strategies, monitor their progress, and evaluate the effectiveness of their approach.
 
 An important characteristic of this framework is that learning is viewed as a **cyclical process**. Students use their experiences and reflections from previous learning activities to prepare for new ones. The framework consists of three interconnected phases:
 
@@ -78,3 +79,9 @@ My experience supervising internship students also relates to this approach. Stu
 I also believe that creating a safe and supportive learning environment is essential when applying this framework. Students should feel comfortable asking questions, expressing uncertainty, experimenting, and making mistakes. Such an environment encourages students to take on challenges without being afraid of failure.
 
 The ultimate objective of the ZPD is to help students move from **what they can achieve with assistance to what they can accomplish independently**. By providing appropriate guidance and gradually reducing support, I aim to develop students' knowledge, confidence, problem-solving abilities, and independence.
+
+# References
+- <a id="ref1"></a> [1] Schunk, Dale H., and Barry J. Zimmerman, eds. Self-regulated learning: From teaching to self-reflective practice. Guilford Press, 1998.
+- <a id="ref2"></a> [2] Zimmerman, Barry J. "Becoming a self-regulated learner: An overview." Theory into practice 41.2 (2002): 64-70.
+- <a id="ref3"></a> [3] Zimmerman, Barry J. "Self-regulated learning and academic achievement: An overview." Educational psychologist 25.1 (1990): 3-17.
+- <a id="ref4"></a> [4] Panadero, Ernesto. "A review of self-regulated learning: Six models and four directions for research." Frontiers in psychology 8 (2017): 422.
