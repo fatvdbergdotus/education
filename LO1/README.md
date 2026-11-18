@@ -69,9 +69,7 @@ Examples of scaffolding include:
 
 The objective is not to provide students with the answers, but to give them enough support to develop the ability to find answers themselves.
 
-### Application in teaching
-
-I apply the principles of the ZPD by considering students' existing knowledge, experience, and individual learning needs before introducing more challenging concepts. For example, when teaching programming, I would first establish whether students understand fundamental concepts such as variables, conditional statements, loops, and methods. I can then introduce more complex topics, such as object-oriented programming, by building on this existing knowledge.
+**How I apply this framework:** I apply the principles of the ZPD by considering students' existing knowledge, experience, and individual learning needs before introducing more challenging concepts. For example, when teaching programming, I would first establish whether students understand fundamental concepts such as variables, conditional statements, loops, and methods. I can then introduce more complex topics, such as object-oriented programming, by building on this existing knowledge.
 
 Initially, I provide explanations, demonstrations, worked examples, and structured programming exercises. As students become more familiar with the concepts, I introduce increasingly complex problems and encourage them to develop their own solutions. Rather than immediately correcting every mistake or providing a complete solution, I use guiding questions and constructive feedback to help students identify and resolve problems independently.
 
@@ -80,5 +78,3 @@ My experience supervising internship students also relates to this approach. Stu
 I also believe that creating a safe and supportive learning environment is essential when applying this framework. Students should feel comfortable asking questions, expressing uncertainty, experimenting, and making mistakes. Such an environment encourages students to take on challenges without being afraid of failure.
 
 The ultimate objective of the ZPD is to help students move from **what they can achieve with assistance to what they can accomplish independently**. By providing appropriate guidance and gradually reducing support, I aim to develop students' knowledge, confidence, problem-solving abilities, and independence.
-
-**How I apply this framework:** My experience teaching and supervising students has taught me that learners have different levels of prior knowledge, confidence, and practical experience. I therefore try to identify what students can already accomplish independently and where additional guidance is needed. For example, when teaching programming, I can initially provide explanations, code examples, and structured exercises before gradually introducing more complex problems that students must solve independently. During internship supervision, I use questions, feedback, and targeted guidance to help students overcome difficulties rather than immediately providing solutions. My objective is to gradually reduce the amount of support as students develop the knowledge and confidence to work independently. I also consider it important to create a safe learning environment in which students can ask questions, experiment, and make mistakes without fear of judgement.
