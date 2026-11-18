@@ -53,7 +53,7 @@ The framework distinguishes between three developmental levels:
 
 3. **Potential development level:** This represents the level of competence a student can reach with guidance and support. Through learning and practice, skills that initially required assistance can gradually become skills that the student can perform independently. In this sense, the potential development level can become the student's actual development level over time.
 
-### Scaffolding
+#### Scaffolding
 
 An important teaching approach associated with the ZPD is **scaffolding**. Scaffolding refers to the temporary support provided to students while they are developing new knowledge or skills. The teacher adjusts the amount and type of support according to the student's needs and gradually reduces it as the student becomes more competent.
 
