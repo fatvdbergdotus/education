@@ -23,6 +23,8 @@ flowchart TB
 
 **Application in teaching:** I use constructive alignment to ensure that learning activities and assessments directly support the intended learning outcomes. For example, if students must develop programming skills, the course should include practical programming assignments rather than relying exclusively on theoretical examinations.
 
+**How I apply this framework:** My teaching experience at Fontys, where I taught Software Engineering, Functional Programming, and Systems Thinking, has shown me the importance of connecting learning objectives, teaching activities, and assessment methods. When designing a course or individual learning activity, I first consider what students should know and be able to demonstrate by the end. I then select appropriate teaching methods, such as lectures, programming exercises, workshops, and practical assignments, to help them achieve these objectives. Finally, I ensure that assessment methods evaluate the intended knowledge and skills. My experience as a Student Assessor at Radboud University has also strengthened my awareness of the importance of transparent and appropriate assessment. I believe that students should understand what is expected of them and how their work will be evaluated.
+
 ## Backward Design – Wiggins and McTighe
 
 ```mermaid
@@ -44,5 +46,4 @@ It consists of three stages:
 
 **Application in teaching:** I find this framework useful because it encourages me to start with the intended educational goals and work backwards. It helps ensure that assessments measure relevant competencies and that teaching activities prepare students adequately.
 
-
-
+**How I apply this framework:** I apply backward design by considering the desired competencies before deciding how to organise the educational activities. For example, when designing a course in Software Engineering, I would first identify the knowledge and practical skills students should acquire, such as analysing requirements, designing software architectures, implementing solutions, and evaluating software quality. I would then determine how students can demonstrate these competencies through assignments, projects, presentations, or examinations. Finally, I would organise lectures, tutorials, workshops, and practical exercises to prepare students for these assessments. My academic and research background, including two Master's degrees, a PhD, and three postdoctoral research appointments, has taught me the importance of clearly defining research questions, objectives, and expected outcomes before selecting appropriate methods. I apply the same principle to educational design: start with the intended destination and then determine the most
