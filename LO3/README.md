@@ -147,7 +147,7 @@ flowchart LR
     F --> A
 ```
 
-**Gibbs' Reflective Cycle**, developed by educational researcher **Graham Gibbs**, is a structured framework for reflecting on experiences, analysing professional practice, and identifying opportunities for improvement. It is particularly useful in education because teaching involves continuous interaction with students, colleagues, learning materials, and different educational situations.
+**Gibbs' Reflective Cycle** [[4]](#ref4)[[5]](#ref5)[[6]](#ref6), developed by educational researcher **Graham Gibbs**, is a structured framework for reflecting on experiences, analysing professional practice, and identifying opportunities for improvement. It is particularly useful in education because teaching involves continuous interaction with students, colleagues, learning materials, and different educational situations.
 
 The framework encourages teachers to look beyond simply describing what happened. It provides a systematic way to examine their experiences, consider their thoughts and feelings, evaluate the effectiveness of their actions, understand the reasons behind particular outcomes, and identify concrete improvements for future situations.
 
@@ -319,4 +319,7 @@ Both frameworks support my belief that professional development is a continuous 
 - <a id="ref1"></a> [1] Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
 - <a id="ref2"></a> [2] Korthagen, Fred AJ. "Promoting core reflection in teacher education: Deepening professional growth." (2014).
 - <a id="ref3"></a> [3] Korthagen, Fred AJ. "How teacher education can make a difference." Journal of education for teaching 36.4 (2010): 407-423.
+- <a id="ref4"></a> [4] Markkanen, Pihla, et al. "A reflective cycle: Understanding challenging situations in a school setting." Educational Research 62.1 (2020): 46-62.
+- <a id="ref5"></a> [5] Ocampo, Francine Antoinette, et al. "Nursing student reflections on a research internship: A reflective discussion following the Gibbs' reflective cycle." Nurse education today 145 (2025): 106481.
+- <a id="ref6"></a> [6] Ahmadpour, Najmeh, Atefeh Shariati, and Mahdieh Poodineh Moghadam. "Effect of narrative writing based on Gibbs’ reflective model on the empathy and communication skills of nursing students." BMC medical education 25.1 (2025): 10.
 
