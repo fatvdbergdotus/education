@@ -41,14 +41,44 @@ flowchart TB
     B --- C
 ```
 
-The **Zone of Proximal Development (ZPD)**, introduced by Lev Vygotsky, describes the difference between what a student can accomplish independently and what they can accomplish with guidance or support.
+The **Zone of Proximal Development (ZPD)**, introduced by psychologist **Lev Vygotsky**, describes the difference between what a student can achieve independently and what they can achieve with appropriate guidance or support from a more knowledgeable person, such as a teacher or a more experienced peer.
 
-The framework distinguishes between:
+The central idea of this framework is that students learn most effectively when they are challenged to perform tasks that are slightly beyond their current abilities but remain achievable with support. Tasks that are too easy provide limited opportunities for further development, whereas tasks that are too difficult may lead to frustration if students lack the necessary guidance. Effective teaching therefore involves identifying each student's current level of understanding and providing support that enables them to progress towards more advanced knowledge and skills.
 
-- **Actual development level:** What students can do independently.
-- **Zone of proximal development:** What students can achieve with appropriate guidance.
-- **Potential development level:** What students may eventually accomplish independently after learning.
+The framework distinguishes between three developmental levels:
 
-**Application in teaching:** I aim to provide sufficient support to help students overcome challenges without removing the responsibility for learning from them. Through explanations, examples, questions, and gradually reduced assistance (scaffolding), I help students develop confidence and independence.
+1. **Actual development level:** This represents what a student can already understand or accomplish independently, without assistance. It reflects the knowledge and skills the student has acquired through previous learning and experience.
+
+2. **Zone of Proximal Development (ZPD):** This represents the range of tasks and concepts that a student cannot yet master independently but can successfully understand or complete with appropriate guidance. Such support may come from a teacher, another knowledgeable person, or a more experienced student. This is the area in which guided learning can promote further development.
+
+3. **Potential development level:** This represents the level of competence a student can reach with guidance and support. Through learning and practice, skills that initially required assistance can gradually become skills that the student can perform independently. In this sense, the potential development level can become the student's actual development level over time.
+
+### Scaffolding
+
+An important teaching approach associated with the ZPD is **scaffolding**. Scaffolding refers to the temporary support provided to students while they are developing new knowledge or skills. The teacher adjusts the amount and type of support according to the student's needs and gradually reduces it as the student becomes more competent.
+
+Examples of scaffolding include:
+
+- **Explanations:** Introducing unfamiliar concepts and explaining the underlying principles.
+- **Demonstrations:** Showing students how to approach a task before asking them to perform it independently.
+- **Guiding questions:** Asking questions that encourage students to think critically and discover solutions themselves.
+- **Worked examples:** Providing examples that demonstrate how to solve a problem step by step.
+- **Structured exercises:** Breaking complex assignments into smaller, manageable activities.
+- **Feedback:** Identifying misunderstandings and suggesting ways to improve.
+- **Gradual reduction of support:** Allowing students to take increasing responsibility as their knowledge and confidence develop.
+
+The objective is not to provide students with the answers, but to give them enough support to develop the ability to find answers themselves.
+
+### Application in teaching
+
+I apply the principles of the ZPD by considering students' existing knowledge, experience, and individual learning needs before introducing more challenging concepts. For example, when teaching programming, I would first establish whether students understand fundamental concepts such as variables, conditional statements, loops, and methods. I can then introduce more complex topics, such as object-oriented programming, by building on this existing knowledge.
+
+Initially, I provide explanations, demonstrations, worked examples, and structured programming exercises. As students become more familiar with the concepts, I introduce increasingly complex problems and encourage them to develop their own solutions. Rather than immediately correcting every mistake or providing a complete solution, I use guiding questions and constructive feedback to help students identify and resolve problems independently.
+
+My experience supervising internship students also relates to this approach. Students often encounter practical problems that they have not previously addressed. Instead of immediately providing solutions, I aim to understand their reasoning, ask questions, suggest relevant resources, and provide guidance where necessary. As their competence increases, I gradually reduce my involvement and encourage them to take greater responsibility for their work.
+
+I also believe that creating a safe and supportive learning environment is essential when applying this framework. Students should feel comfortable asking questions, expressing uncertainty, experimenting, and making mistakes. Such an environment encourages students to take on challenges without being afraid of failure.
+
+The ultimate objective of the ZPD is to help students move from **what they can achieve with assistance to what they can accomplish independently**. By providing appropriate guidance and gradually reducing support, I aim to develop students' knowledge, confidence, problem-solving abilities, and independence.
 
 **How I apply this framework:** My experience teaching and supervising students has taught me that learners have different levels of prior knowledge, confidence, and practical experience. I therefore try to identify what students can already accomplish independently and where additional guidance is needed. For example, when teaching programming, I can initially provide explanations, code examples, and structured exercises before gradually introducing more complex problems that students must solve independently. During internship supervision, I use questions, feedback, and targeted guidance to help students overcome difficulties rather than immediately providing solutions. My objective is to gradually reduce the amount of support as students develop the knowledge and confidence to work independently. I also consider it important to create a safe learning environment in which students can ask questions, experiment, and make mistakes without fear of judgement.
