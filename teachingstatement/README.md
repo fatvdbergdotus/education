@@ -43,7 +43,7 @@ By introducing students to research questions and current developments, I aim to
 
 An important aspect of my teaching is connecting theoretical knowledge to practical applications. Students should understand not only how a concept or technique works, but also why it is relevant and how it can be applied to real-world problems.
 
-My academic and professional experience provides opportunities to make these connections. I have worked at Wageningen University, the University of Twente, Eindhoven University of Technology, and TNO-ESI. At TNO-ESI, my work included research into the automated performance evaluation of service-oriented systems, including applications related to Philips Healthcare medical imaging.
+My academic and professional experience provides opportunities to make these connections. I have worked at Wageningen University, the University of Twente, Eindhoven University of Technology, and TNO-ESI. At the University of Twente, my work included research into the automated performance evaluation of service-oriented systems, including applications related to Philips Healthcare medical imaging.
 
 Having completed two Master's degrees and a PhD, followed by three postdoctoral research appointments, I have gained experience in approaching problems from different academic and research perspectives. This interdisciplinary background enables me to illustrate how theoretical concepts can be applied in different contexts and how knowledge from one field can contribute to solving problems in another.
 
