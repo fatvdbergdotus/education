@@ -1,5 +1,7 @@
 # Education (UNDER CONSTRUCTION)
 
+- [Teaching Statement](https://github.com/fatvdbergdotus/education/blob/main/teachingstatement/README.md)
+
 - [Education Methods](https://github.com/fatvdbergdotus/education/blob/main/methods/README.md):
 Education methods describe different approaches to organising and facilitating the learning process, varying in terms of student autonomy, responsibility, flexibility, and structure. **Course-based** learning provides a structured curriculum with predefined learning objectives and activities, while **demand-based** learning focuses on individual learning needs and knowledge gaps. **Research-based** learning emphasises scientific investigation, experimentation, and critical analysis to develop independent problem-solving and research skills. **Open learning** offers flexibility and autonomy, allowing students to determine what, when, where, and how they learn. The suitability of each method depends on the educational objectives, students' prior knowledge, and the desired balance between instructor guidance and student independence.
 
