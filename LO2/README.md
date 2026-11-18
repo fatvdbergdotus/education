@@ -68,14 +68,109 @@ flowchart LR
     A --> B --> C
 ```
 
-**Backward Design**, developed by Grant Wiggins and Jay McTighe, is an approach to educational planning that starts with the desired learning outcomes rather than the teaching activities.
+**Backward Design**, developed by educational researchers **Grant Wiggins and Jay McTighe**, is an approach to educational planning that starts by identifying the desired learning outcomes and then works backwards to determine how students can achieve and demonstrate them.
 
-It consists of three stages:
+Traditional course planning often begins by selecting topics, teaching materials, and classroom activities. Backward Design reverses this process. Instead of first deciding what the teacher will teach, the teacher begins by asking what students should know, understand, and be able to do by the end of a course or learning activity.
 
-1. **Identify desired results:** Define what students should know, understand, and be able to do.
-2. **Determine acceptable evidence:** Decide how students will demonstrate that they have achieved the learning outcomes.
-3. **Plan learning experiences and instruction:** Design the teaching activities and resources needed to achieve the outcomes.
+The central principle is that educational activities should be deliberately designed to support clearly defined learning objectives. Assessment methods should provide evidence that these objectives have been achieved, while teaching activities should prepare students to demonstrate the required knowledge and skills.
 
-**Application in teaching:** I find this framework useful because it encourages me to start with the intended educational goals and work backwards. It helps ensure that assessments measure relevant competencies and that teaching activities prepare students adequately.
+The framework consists of three interconnected stages:
+
+#### 1. Identify Desired Results
+
+The first stage involves defining the learning outcomes that students are expected to achieve. These outcomes describe the knowledge, understanding, skills, and competencies students should develop during a course or learning activity.
+
+Teachers should consider:
+
+- **Knowledge:** What information, concepts, theories, and principles should students know?
+- **Understanding:** What should students understand beyond simply remembering information? For example, should they be able to explain relationships, interpret results, or recognise underlying principles?
+- **Skills:** What should students be able to do? This might include solving problems, programming, analysing information, conducting experiments, or communicating results.
+- **Transfer:** How should students apply their knowledge and skills in new situations or unfamiliar contexts?
+
+Learning outcomes should be clearly formulated and sufficiently specific to guide the subsequent design of assessments and teaching activities. Bloom's taxonomy can help teachers define the expected level of cognitive development, ranging from remembering and understanding to applying, analysing, evaluating, and creating.
+
+For example, in a Software Engineering course, desired learning outcomes might include:
+
+- Explain fundamental software engineering principles.
+- Analyse software requirements and identify relevant constraints.
+- Design an appropriate software architecture.
+- Implement a software solution using suitable programming techniques.
+- Test and evaluate the quality of a software application.
+
+Defining these outcomes first establishes a clear direction for the entire course.
+
+#### 2. Determine Acceptable Evidence
+
+The second stage involves deciding how students will demonstrate that they have achieved the intended learning outcomes.
+
+Teachers identify appropriate assessment methods and define the evidence that will demonstrate successful learning. The assessment should measure the competencies specified in the learning outcomes rather than simply test whether students can reproduce information.
+
+Important considerations include:
+
+- **Assessment methods:** Which methods are most appropriate for evaluating the intended knowledge and skills? Examples include written examinations, practical assignments, programming projects, presentations, portfolios, and demonstrations.
+- **Assessment criteria:** What characteristics distinguish satisfactory from excellent performance? Criteria should be clearly defined and communicated to students.
+- **Validity:** Does the assessment actually measure the knowledge, skills, or competencies it is intended to evaluate?
+- **Reliability:** Would the assessment produce sufficiently consistent results under comparable conditions?
+- **Transparency:** Do students understand what is expected of them and how their work will be evaluated?
+
+For example, if students are expected to design and implement a software application, a theoretical examination alone would not provide sufficient evidence of their practical programming and design capabilities. A practical project, supported by documentation and a demonstration, would provide more appropriate evidence.
+
+Assessment can also take place at different stages of the learning process:
+
+- **Diagnostic assessment:** Establishes students' existing knowledge and identifies potential knowledge gaps before or at the beginning of instruction.
+- **Formative assessment:** Monitors learning progress and provides feedback that students can use to improve.
+- **Summative assessment:** Evaluates the extent to which students have achieved the intended learning outcomes at the end of a learning period.
+
+Determining the assessment approach at this stage helps ensure that the learning outcomes can be meaningfully evaluated.
+
+#### 3. Plan Learning Experiences and Instruction
+
+The third stage involves designing the teaching activities, learning resources, and instructional approaches that will enable students to achieve the desired learning outcomes and prepare them for the assessments.
+
+The teacher considers which learning experiences will provide students with the knowledge, practice, and guidance required to demonstrate the expected competencies.
+
+Possible teaching and learning activities include:
+
+- **Lectures:** Introduce theoretical concepts, principles, and foundational knowledge.
+- **Tutorials:** Provide opportunities to discuss concepts, ask questions, and solve problems with guidance.
+- **Practical exercises:** Allow students to apply theoretical knowledge and develop technical skills.
+- **Workshops:** Encourage active participation, collaboration, experimentation, and practical problem-solving.
+- **Project-based learning:** Enable students to integrate different competencies while working on realistic problems.
+- **Independent study:** Encourage students to take responsibility for their learning and explore topics in greater depth.
+- **Feedback and reflection:** Help students identify knowledge gaps, evaluate their progress, and improve their performance.
+
+The selected activities should provide sufficient opportunities for students to practise the knowledge and skills required by the assessments. Teachers should also consider students' prior knowledge, learning needs, available resources, and the complexity of the subject.
+
+For example, if students are expected to implement and test a software application, the course should include programming exercises, demonstrations, practical assignments, and opportunities to work with testing frameworks before the final project is assessed.
+
+#### Relationship between the three stages
+
+The three stages form a logical sequence:
+
+1. **Identify desired results:** What should students know, understand, and be able to do?
+2. **Determine acceptable evidence:** How will students demonstrate that they have achieved these results?
+3. **Plan learning experiences and instruction:** Which activities and resources will prepare students to achieve the results and demonstrate their competencies?
+
+The important characteristic of Backward Design is that teaching activities are selected only after the desired learning outcomes and assessment evidence have been established.
+
+This approach helps prevent a common problem in educational design: organising a course around interesting topics or teaching activities without sufficiently considering whether they contribute to the intended learning outcomes.
+
+#### Application in teaching
+
+I find Backward Design useful because it encourages me to start with the intended educational goals and work backwards. It helps ensure that assessments measure relevant competencies and that teaching activities prepare students adequately.
+
+My academic and research experience has taught me the importance of defining clear objectives before selecting methods to achieve them. The same principle applies to educational design: before deciding which topics to teach or which exercises to use, I consider what students should be able to demonstrate at the end of the learning process.
+
+For example, when planning a Software Engineering course, I would first identify the desired competencies. Students might be expected to analyse requirements, design software architectures, implement solutions, and evaluate software quality.
+
+Next, I would determine how these competencies could be assessed. Practical assignments, software projects, presentations, and examinations could provide evidence of students' theoretical understanding and practical abilities. I would also establish transparent assessment criteria so that students understand the expected standards.
+
+Finally, I would design the learning activities to prepare students for these assessments. Lectures could introduce the theoretical foundations, tutorials could explore design principles, and programming exercises and workshops could provide opportunities to practise implementation and testing. A larger project could then allow students to integrate the knowledge and skills they have developed.
+
+My teaching experience at Fontys University of Applied Sciences has reinforced the importance of combining theoretical explanations with practical exercises. I also consider my experience as a Student Assessor at Radboud University relevant, as it has strengthened my awareness of the importance of clear expectations and appropriate assessment.
+
+I believe that Backward Design contributes to effective education because it encourages teachers to make deliberate decisions about the purpose of every learning activity. It also helps students understand the relationship between what they are expected to learn, the activities in which they participate, and the way their achievements are evaluated.
+
+Ultimately, Backward Design helps create **purposeful, coherent, and goal-oriented education**, in which learning outcomes guide assessment and instructional decisions from the beginning.
 
 **How I apply this framework:** I apply backward design by considering the desired competencies before deciding how to organise the educational activities. For example, when designing a course in Software Engineering, I would first identify the knowledge and practical skills students should acquire, such as analysing requirements, designing software architectures, implementing solutions, and evaluating software quality. I would then determine how students can demonstrate these competencies through assignments, projects, presentations, or examinations. Finally, I would organise lectures, tutorials, workshops, and practical exercises to prepare students for these assessments. My academic and research background, including two Master's degrees, a PhD, and three postdoctoral research appointments, has taught me the importance of clearly defining research questions, objectives, and expected outcomes before selecting appropriate methods. I apply the same principle to educational design: start with the intended destination and then determine the most
