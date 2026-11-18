@@ -15,7 +15,7 @@ flowchart LR
     E --> A
 ```
 
-The **ALACT model** [[1]](#ref1), developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
+The **ALACT model** [[1]](#ref1)[[2]](#ref2)[[3]](#ref3), developed by educational researcher **Fred Korthagen**, is a framework for structured reflection and professional development. It helps teachers analyse their professional experiences, understand the factors that influence their actions, and identify ways to improve their teaching practice.
 
 The model is based on the idea that professional development does not happen simply through gaining experience. Experience becomes valuable for development when professionals actively reflect on what happened, examine their decisions, consider alternative approaches, and apply what they have learned in new situations.
 
@@ -316,5 +316,7 @@ I believe that effective teaching requires continuous reflection and a willingne
 Both frameworks support my belief that professional development is a continuous process. Teaching is not simply about transferring knowledge; it also requires teachers to remain open to feedback, question their own assumptions, and learn from experience. I aim to create a learning environment in which students feel safe to make mistakes and learn from them, while demonstrating the same willingness to reflect and improve in my own teaching practice.
 
 # References
-<a id="ref1"></a> Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
+- <a id="ref1"></a> Korthagen, Fred. "Inconvenient truths about teacher learning: Towards professional development 3.0." Teachers and teaching 23.4 (2017): 387-405.
+- <a id="ref2"></a> Korthagen, Fred AJ. "Promoting core reflection in teacher education: Deepening professional growth." (2014).
+- <a id="ref3"></a> Korthagen, Fred AJ. "How teacher education can make a difference." Journal of education for teaching 36.4 (2010): 407-423.
 
