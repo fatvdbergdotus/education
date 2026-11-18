@@ -4,7 +4,14 @@ Professional development involves reflecting on teaching practices, identifying 
 
 ## ALACT Model – Fred Korthagen
 
-![ALACT Reflective Model](https://upload.wikimedia.org/wikipedia/commons/9/9e/ALACT_model.png)
+```mermaid
+flowchart LR
+    A["1. Action"] --> B["2. Looking Back"]
+    B --> C["3. Awareness of Essential Aspects"]
+    C --> D["4. Creating Alternatives"]
+    D --> E["5. Trial"]
+    E --> A
+```
 
 The **ALACT model**, developed by Fred Korthagen, provides a structured approach to professional reflection. It consists of five phases:
 
@@ -18,7 +25,15 @@ The **ALACT model**, developed by Fred Korthagen, provides a structured approach
 
 ## Gibbs' Reflective Cycle – Graham Gibbs
 
-![Gibbs' Reflective Cycle](https://upload.wikimedia.org/wikipedia/commons/2/2c/Gibbs_Reflective_Cycle.png)
+```mermaid
+flowchart LR
+    A["1. Description"] --> B["2. Feelings"]
+    B --> C["3. Evaluation"]
+    C --> D["4. Analysis"]
+    D --> E["5. Conclusion"]
+    E --> F["6. Action Plan"]
+    F --> A
+```
 
 **Gibbs' Reflective Cycle**, developed by Graham Gibbs, provides a systematic approach to analysing experiences and identifying opportunities for improvement.
 
