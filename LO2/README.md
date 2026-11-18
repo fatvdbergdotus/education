@@ -68,7 +68,7 @@ flowchart LR
     A --> B --> C
 ```
 
-**Backward Design**, developed by educational researchers **Grant Wiggins and Jay McTighe**, is an approach to educational planning that starts by identifying the desired learning outcomes and then works backwards to determine how students can achieve and demonstrate them.
+**Backward Design** [[5]](#ref5)[[6]](#ref6)[[7]](#ref7), developed by educational researchers **Grant Wiggins and Jay McTighe**, is an approach to educational planning that starts by identifying the desired learning outcomes and then works backwards to determine how students can achieve and demonstrate them.
 
 Traditional course planning often begins by selecting topics, teaching materials, and classroom activities. Backward Design reverses this process. Instead of first deciding what the teacher will teach, the teacher begins by asking what students should know, understand, and be able to do by the end of a course or learning activity.
 
@@ -180,3 +180,6 @@ Ultimately, Backward Design helps create **purposeful, coherent, and goal-orient
 - <a id="ref2"></a> [2] Biggs, John. "Constructive alignment." Retrieved April 6 (2001): 2015.
 - <a id="ref3"></a> [3] Wang, Xiaoyan, et al. "An exploration of Biggs’ constructive alignment in course design and its impact on students’ learning approaches." Assessment & Evaluation in Higher Education 38.4 (2013): 477-491.
 - <a id="ref4"></a> [4] Biggs, John, and Catherine Tang. "Constructive alignment: An outcomes-based approach to teaching anatomy." Teaching anatomy: A practical guide. Cham: Springer International Publishing, 2014. 31-38.
+- <a id="ref5"></a> [5] McTighe, Jay, and Ronald S. Thomas. "Backward design for forward action." Educational leadership 60.5 (2003): 52-55.
+- <a id="ref6"></a> [6] Wiggins, Grant, and Jay McTighe. "What is backward design." Understanding by design 1 (1998): 7-19.
+- <a id="ref7"></a> [7] Wiggins, Grant P., Jay McTighe, and Jay McTighe. Understanding by design. Vol. 2. Alexandria, VA: Association for supervision and curriculum development, 2005.
