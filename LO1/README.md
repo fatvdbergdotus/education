@@ -9,7 +9,7 @@ flowchart LR
     A["Forethought<br/>Set goals and plan"] --> B["Performance<br/>Apply strategies and monitor progress"]
     B --> C["Self-reflection<br/>Evaluate results"]
     C --> A
-````
+```
 
 The **Self-Regulated Learning (SRL) framework**, developed by Barry Zimmerman, describes how students actively manage their own learning through three cyclical phases:
 
@@ -21,7 +21,15 @@ The **Self-Regulated Learning (SRL) framework**, developed by Barry Zimmerman, d
 
 ## Zone of Proximal Development – Vygotsky
 
-![Vygotsky's Zone of Proximal Development](https://upload.wikimedia.org/wikipedia/commons/2/2e/Zone_of_proximal_development.svg)
+```mermaid
+flowchart TB
+    A["What students can do independently"]
+    B["Zone of Proximal Development<br/>What students can achieve with guidance"]
+    C["What students cannot yet achieve"]
+
+    A --- B
+    B --- C
+```
 
 The **Zone of Proximal Development (ZPD)**, introduced by Lev Vygotsky, describes the difference between what a student can accomplish independently and what they can accomplish with guidance or support.
 
