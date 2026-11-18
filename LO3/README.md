@@ -147,9 +147,11 @@ flowchart LR
     F --> A
 ```
 
-**Gibbs' Reflective Cycle**, developed by Graham Gibbs, provides a systematic approach to analysing experiences and identifying opportunities for improvement.
+**Gibbs' Reflective Cycle**, developed by educational researcher **Graham Gibbs**, is a structured framework for reflecting on experiences, analysing professional practice, and identifying opportunities for improvement. It is particularly useful in education because teaching involves continuous interaction with students, colleagues, learning materials, and different educational situations.
 
-It consists of six stages:
+The framework encourages teachers to look beyond simply describing what happened. It provides a systematic way to examine their experiences, consider their thoughts and feelings, evaluate the effectiveness of their actions, understand the reasons behind particular outcomes, and identify concrete improvements for future situations.
+
+Gibbs' model consists of six interconnected stages:
 
 1. **Description:** What happened?
 2. **Feelings:** What were my thoughts and feelings?
@@ -158,7 +160,156 @@ It consists of six stages:
 5. **Conclusion:** What could I have done differently?
 6. **Action Plan:** What will I do next time?
 
-**Application in teaching:** I consider this framework useful for reflecting on individual teaching experiences, such as lectures, workshops, assessments, and student supervision. It helps transform experiences and feedback into concrete improvements.
+The six stages form a cycle because the action plan developed at the end can be applied to a future situation, which then provides new experiences for reflection.
+
+#### 1. Description
+
+The first stage involves describing the experience or situation that will be reflected upon. The objective is to establish a clear and factual understanding of what happened, without immediately judging whether the experience was successful or unsuccessful.
+
+In an educational context, the experience might involve delivering a lecture, organising a workshop, assessing student assignments, supervising an internship student, or handling a challenging classroom situation.
+
+Questions to consider include:
+
+- What happened?
+- When and where did the situation occur?
+- Who was involved?
+- What was the objective of the activity?
+- What actions did I take?
+- How did students respond?
+- What was the eventual outcome?
+
+For example, after delivering a programming workshop, I might describe the topics covered, the exercises students completed, the questions they asked, and the difficulties they encountered. I would also record whether the planned activities were completed within the available time.
+
+The purpose of this stage is to establish the context for the subsequent reflection.
+
+#### 2. Feelings
+
+The second stage focuses on the thoughts, emotions, and expectations experienced during the situation and afterwards. Understanding these feelings can help teachers recognise how their own attitudes, assumptions, and reactions influence their professional behaviour.
+
+Questions to consider include:
+
+- What was I thinking before the activity?
+- How did I feel during the teaching activity?
+- Did I feel confident, uncertain, frustrated, or satisfied?
+- How did I respond emotionally to unexpected situations?
+- How might students have felt?
+- How do I feel about the experience now?
+- Have my feelings changed after reflecting on what happened?
+
+For example, I might initially feel confident when introducing a programming concept but become uncertain when several students struggle to understand the explanation. I might also feel frustrated if an exercise takes considerably longer than expected.
+
+Recognising these feelings does not mean that they should determine the evaluation of the situation. Instead, acknowledging them helps teachers understand their reactions and consider whether these influenced their decisions.
+
+This stage also encourages empathy by considering the possible experiences and emotions of students. Students may feel uncertain or reluctant to ask questions, particularly when they are struggling with unfamiliar material.
+
+#### 3. Evaluation
+
+The third stage involves evaluating the experience by identifying what went well and what did not. The objective is to consider both positive and negative aspects of the situation.
+
+Questions to consider include:
+
+- Which aspects of the activity were successful?
+- Did students achieve the intended learning objectives?
+- Were the explanations and learning materials effective?
+- Did students participate actively?
+- Which aspects were less successful?
+- Were there unexpected difficulties?
+- What feedback did students or colleagues provide?
+
+For example, during a programming workshop, students might have actively participated in discussions and successfully completed the initial exercises. However, some students might have struggled with the more complex assignments, suggesting that additional explanations or intermediate exercises would have been helpful.
+
+It is important to consider both successes and difficulties. Successful elements should be recognised and retained, while less successful elements provide opportunities for improvement.
+
+Feedback from students, colleagues, assessment results, and personal observations can provide valuable evidence for this evaluation.
+
+#### 4. Analysis
+
+The fourth stage involves examining the experience in greater depth to understand why particular events occurred and what factors influenced the outcome.
+
+Whereas the evaluation stage identifies what went well and what did not, the analysis stage investigates the underlying reasons.
+
+Questions to consider include:
+
+- Why did certain aspects of the activity work well?
+- Why did students experience difficulties?
+- Were the learning objectives sufficiently clear?
+- Was the complexity of the material appropriate?
+- Did students have the necessary prior knowledge?
+- Were the selected teaching methods suitable?
+- Did I provide sufficient guidance and feedback?
+- Could the learning environment or organisation have influenced the outcome?
+- Are there educational theories or frameworks that help explain the situation?
+
+For example, if students struggled with a programming exercise, several factors might explain the difficulties. The exercise may have introduced too many unfamiliar concepts simultaneously, students may not have had sufficient opportunities to practise the underlying principles, or the instructions may not have been sufficiently clear.
+
+Educational frameworks can help interpret these situations. For example, Vygotsky's Zone of Proximal Development can help explain why students may struggle when a task is beyond their current abilities without appropriate guidance. Similarly, Self-Regulated Learning can help identify whether students need additional support with planning, monitoring, or evaluating their learning.
+
+This stage is particularly important because it encourages teachers to look beyond the immediate symptoms of a problem and investigate its underlying causes.
+
+#### 5. Conclusion
+
+The fifth stage involves drawing conclusions from the previous stages and identifying what could have been done differently. The objective is to translate the analysis into lessons that can be applied in future teaching situations.
+
+Questions to consider include:
+
+- What have I learned from this experience?
+- What did I do well?
+- What could I have done differently?
+- Which alternative teaching approaches might have been more effective?
+- What should I retain in future activities?
+- What knowledge or skills do I need to develop further?
+
+For example, I might conclude that the programming workshop was effective in introducing the theoretical concepts, but that students needed more structured opportunities to practise before attempting the final assignment.
+
+I might also recognise that I could have identified students' difficulties earlier by asking more questions, checking their understanding, or providing formative assessment during the workshop.
+
+The conclusion should be based on the observations and analysis rather than assumptions. It should identify specific lessons that can guide future improvements.
+
+#### 6. Action Plan
+
+The final stage involves developing a concrete plan for improving future practice. The objective is to translate the insights gained during reflection into practical actions.
+
+Questions to consider include:
+
+- What will I do differently next time?
+- Which teaching methods or resources should I change?
+- Do I need to develop additional knowledge or skills?
+- How will I recognise whether the improvement has been successful?
+- What feedback or evidence will I collect?
+- When will I evaluate the results?
+
+For example, based on the previous programming workshop, I might decide to:
+
+- Introduce an additional worked example before the practical exercise.
+- Divide complex assignments into smaller, progressive tasks.
+- Include short questions to check students' understanding.
+- Provide additional opportunities for independent practice.
+- Collect student feedback at the end of the session.
+- Review the results before delivering the next workshop.
+
+The action plan should be specific and realistic. It should also include a way to evaluate whether the proposed changes have improved the learning experience.
+
+The next time I deliver a similar workshop, I can examine whether the changes have produced better results. This new experience then becomes the starting point for another reflection cycle.
+
+#### Application in teaching
+
+I consider Gibbs' Reflective Cycle useful for analysing individual teaching experiences in a structured and systematic way. Whereas the ALACT model provides a framework for professional reflection and experimentation, Gibbs' model explicitly encourages me to consider the emotional aspects of an experience and examine both positive and negative outcomes before developing an action plan.
+
+I can apply this framework to my teaching experience at Fontys University of Applied Sciences, where I taught Software Engineering, Functional Programming, and Systems Thinking. For example, after delivering a lecture or organising a workshop, I can use the six stages to examine whether the learning objectives were achieved, how students responded, which teaching methods were effective, and what could be improved.
+
+My experience as a Student Assistant and Student Assessor at Radboud University also provides opportunities for reflection. When assessing student work, I can consider whether my feedback was clear, constructive, and actionable. When supporting students, I can reflect on whether I provided an appropriate balance between guidance and independence.
+
+Similarly, when supervising internship students, I can evaluate how effectively I supported their progress, whether I encouraged independent problem-solving, and whether my guidance was appropriate to their individual needs.
+
+I also consider feedback from students and colleagues an important source of information. However, reflection should not be limited to external feedback. It is equally important to examine my own assumptions, decisions, expectations, and reactions. Sometimes, an activity that initially appears unsuccessful can reveal valuable insights about the learning process and my own teaching approach.
+
+An important principle in my teaching philosophy is that **teachers should also be willing to acknowledge uncertainty, make mistakes, and learn from them**. I do not consider teaching a process in which the teacher always has the correct answer or the perfect approach. Instead, I see it as a continuous process of learning and development. The willingness to recognise mistakes and use them constructively is an important part of becoming a more effective educator.
+
+#### Conclusion
+
+Gibbs' Reflective Cycle provides a practical framework for turning teaching experiences into opportunities for professional development. By describing experiences, recognising feelings, evaluating outcomes, analysing underlying factors, drawing conclusions, and developing action plans, teachers can systematically improve their educational practice.
+
+I believe that effective teaching requires continuous reflection and a willingness to adapt. Every lecture, workshop, assessment, and student interaction provides an opportunity to learn something new. By applying Gibbs' Reflective Cycle, I aim to become a more reflective, responsive, and effective teacher who continuously improves the learning experiences and development opportunities provided to students.
 
 **How I apply this framework:** I use Gibbs' Reflective Cycle to examine specific teaching situations in greater detail. For example, when a programming exercise proves difficult for students, I first describe the situation and consider how students responded. I then reflect on my own feelings and expectations, evaluate what worked well and what did not, and analyse possible causes. These might include the complexity of the exercise, students' prior knowledge, the clarity of my explanation, or the amount of guidance provided. Based on this analysis, I identify what I could have done differently and formulate an action plan, such as introducing additional examples, dividing the exercise into smaller steps, or providing more opportunities for practice. I can then apply these changes in a subsequent session and evaluate their effectiveness.
 
