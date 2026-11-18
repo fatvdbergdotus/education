@@ -13,7 +13,7 @@ I became a PhD candidate at the University of Twente in collaboration with Phili
 After this, I attended a Post-Doctoral position at the University of Twente in collaboration with the Wageningen University and Research. It resulted into a Domain Specific Language for Cyber-Physical Systems called aDSL.
 This was followed by a Post-Doctoral position that lasted 2.5 years at the Eindhoven University of Technology. A Domain Specific Language for Quality and Resource management, i.e., QRML, was constructed in collaboration with Philips Healthcare as the main project partner.
 
-A few months before my contract ended, I came across a teacher vacancy at Fontys University. They offered me the opportunity to receive my teacher qualification (BKO) and also the ability to visit companies via internships. Reasons for me to like this job include the following. I would like to:
+A few months before my contract ended, I came across a teacher vacancy at Fontys University. They offered me the opportunity to receive my teacher qualification (BKO) and also the ability to visit companies via internships. Reasons for me to be a teacher include the following. I would like to:
 - to help people. It makes me feel good that my knowledge is being absorbed by them and that over the semester they mature a bit.
 - the student to teach me things as much as I teach them. It is impossible to stay up-to-date with all the latest technologies, therefore it is not uncommon that the student explains things.
 - that what I have learned over my lifetime can be applied in a useful way. I worked hard most of my life with people around me that have equal skills. By now working with people who are younger and have less skills yet, I feel I can really contribute.
