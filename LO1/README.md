@@ -42,7 +42,8 @@ flowchart TB
     B --- C
 ```
 
-The **Zone of Proximal Development (ZPD)**, introduced by psychologist **Lev Vygotsky**, describes the difference between what a student can achieve independently and what they can achieve with appropriate guidance or support from a more knowledgeable person, such as a teacher or a more experienced peer.
+The **Zone of Proximal Development (ZPD)** [[5]](#ref5)[[6]](#ref6)[[7]](#ref7)
+, introduced by psychologist **Lev Vygotsky**, describes the difference between what a student can achieve independently and what they can achieve with appropriate guidance or support from a more knowledgeable person, such as a teacher or a more experienced peer.
 
 The central idea of this framework is that students learn most effectively when they are challenged to perform tasks that are slightly beyond their current abilities but remain achievable with support. Tasks that are too easy provide limited opportunities for further development, whereas tasks that are too difficult may lead to frustration if students lack the necessary guidance. Effective teaching therefore involves identifying each student's current level of understanding and providing support that enables them to progress towards more advanced knowledge and skills.
 
@@ -85,3 +86,6 @@ The ultimate objective of the ZPD is to help students move from **what they can 
 - <a id="ref2"></a> [2] Zimmerman, Barry J. "Becoming a self-regulated learner: An overview." Theory into practice 41.2 (2002): 64-70.
 - <a id="ref3"></a> [3] Zimmerman, Barry J. "Self-regulated learning and academic achievement: An overview." Educational psychologist 25.1 (1990): 3-17.
 - <a id="ref4"></a> [4] Panadero, Ernesto. "A review of self-regulated learning: Six models and four directions for research." Frontiers in psychology 8 (2017): 422.
+- <a id="ref5"></a> [5] Shabani, Karim. "Vygotsky's zone of proximal development: Instructional implications and teachers' professional development." English language teaching (2010).
+- <a id="ref6"></a> [6] Chaiklin, Seth. "The zone of proximal development in Vygotsky’s analysis of learning and instruction." Vygotsky’s educational theory in cultural context 1.2 (2003): 39-64.
+- <a id="ref7"></a> [7]Eun, Barohny. "The zone of proximal development as an overarching concept: A framework for synthesizing Vygotsky’s theories." Educational philosophy and theory 51.1 (2019): 18-30.
