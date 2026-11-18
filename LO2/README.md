@@ -4,7 +4,16 @@ Designing education involves developing coherent courses, defining learning obje
 
 ## Constructive Alignment – John Biggs
 
-![Constructive Alignment](https://upload.wikimedia.org/wikipedia/commons/7/7e/Constructive_alignment.png)
+```mermaid
+flowchart TB
+    A["Intended Learning Outcomes"]
+    B["Teaching and Learning Activities"]
+    C["Assessment Tasks"]
+
+    A --> B
+    A --> C
+    B <--> C
+```
 
 **Constructive Alignment**, developed by John Biggs, is an educational design framework that ensures consistency between three fundamental elements:
 
@@ -16,7 +25,14 @@ Designing education involves developing coherent courses, defining learning obje
 
 ## Backward Design – Wiggins and McTighe
 
-![Backward Design](https://upload.wikimedia.org/wikipedia/commons/8/8a/Backward_design.png)
+```mermaid
+flowchart LR
+    A["Stage 1<br/>Identify Desired Results"]
+    B["Stage 2<br/>Determine Acceptable Evidence"]
+    C["Stage 3<br/>Plan Learning Experiences and Instruction"]
+
+    A --> B --> C
+```
 
 **Backward Design**, developed by Grant Wiggins and Jay McTighe, is an approach to educational planning that starts with the desired learning outcomes rather than the teaching activities.
 
