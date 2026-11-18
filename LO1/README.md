@@ -4,7 +4,12 @@ Guiding learning processes involves supporting students throughout their learnin
 
 ## Self-Regulated Learning – Zimmerman
 
-![Zimmerman's Self-Regulated Learning Cycle](https://upload.wikimedia.org/wikipedia/commons/3/3b/Self-regulated_learning_cycle.png)
+```mermaid
+flowchart LR
+    A["Forethought<br/>Set goals and plan"] --> B["Performance<br/>Apply strategies and monitor progress"]
+    B --> C["Self-reflection<br/>Evaluate results"]
+    C --> A
+````
 
 The **Self-Regulated Learning (SRL) framework**, developed by Barry Zimmerman, describes how students actively manage their own learning through three cyclical phases:
 
