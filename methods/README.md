@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Education methods
 
 Education methods describe the different approaches used to organise and facilitate the learning process. They determine the roles and responsibilities of instructors and students, the degree of student autonomy, and the ways in which knowledge and skills are acquired. Different educational approaches, such as **course-based**, **demand-based**, **research-based**, and **open learning**, offer varying levels of flexibility, independence, and structure. These approaches can be compared using four dimensions: self-management, choice of content, choice of approach, and predictability. Understanding these dimensions helps explain the characteristics of each method and how they influence the overall learning experience.

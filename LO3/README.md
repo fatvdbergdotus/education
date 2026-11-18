@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # LO3 Professional Development as a Teacher
 
 Professional development involves reflecting on teaching practices, identifying areas for improvement, using feedback, and continuously developing professional competencies. Two relevant frameworks are the ALACT Model and Gibbs' Reflective Cycle.

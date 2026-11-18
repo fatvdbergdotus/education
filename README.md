@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # Education (UNDER CONSTRUCTION)
 
 - [Teaching Statement](https://github.com/fatvdbergdotus/education/blob/main/teachingstatement/README.md)

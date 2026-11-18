@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # LO1 Guiding Learning Processes
 
 Guiding learning processes involves supporting students throughout their learning journey, encouraging independence, providing feedback, and selecting appropriate teaching methods. Two relevant frameworks are Self-Regulated Learning and the Zone of Proximal Development.

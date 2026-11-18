@@ -1,3 +1,5 @@
+(c) 2026 Freek van den Berg. All rights reserved.
+
 # LO2 Designing Education
 
 Designing education involves developing coherent courses, defining learning objectives, selecting teaching activities, and creating appropriate assessment methods. Two relevant frameworks are Constructive Alignment and Backward Design.
