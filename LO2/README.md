@@ -17,7 +17,7 @@ flowchart TB
     B <--> C
 ```
 
-**Constructive Alignment**, developed by educational researcher **John Biggs**, is an educational design framework that ensures consistency between intended learning outcomes, teaching and learning activities, and assessment tasks. The central principle is that all elements of a course should work together to support the learning process.
+**Constructive Alignment** [[1]](#ref1)[[2]](#ref2)[[3]](#ref3)[[4]](#ref4), developed by educational researcher **John Biggs**, is an educational design framework that ensures consistency between intended learning outcomes, teaching and learning activities, and assessment tasks. The central principle is that all elements of a course should work together to support the learning process.
 
 The term *constructive* refers to the idea that students actively construct their own understanding through learning activities and experiences. *Alignment* refers to the consistency between what students are expected to learn, the activities through which they develop their knowledge and skills, and the methods used to assess their achievement.
 
@@ -174,3 +174,9 @@ I believe that Backward Design contributes to effective education because it enc
 Ultimately, Backward Design helps create **purposeful, coherent, and goal-oriented education**, in which learning outcomes guide assessment and instructional decisions from the beginning.
 
 **How I apply this framework:** I apply backward design by considering the desired competencies before deciding how to organise the educational activities. For example, when designing a course in Software Engineering, I would first identify the knowledge and practical skills students should acquire, such as analysing requirements, designing software architectures, implementing solutions, and evaluating software quality. I would then determine how students can demonstrate these competencies through assignments, projects, presentations, or examinations. Finally, I would organise lectures, tutorials, workshops, and practical exercises to prepare students for these assessments. My academic and research background, including two Master's degrees, a PhD, and three postdoctoral research appointments, has taught me the importance of clearly defining research questions, objectives, and expected outcomes before selecting appropriate methods. I apply the same principle to educational design: start with the intended destination and then determine the most
+
+# References
+- <a id="ref1"></a> [1] Biggs, John. "Enhancing teaching through constructive alignment." Higher education 32.3 (1996): 347-364.
+- <a id="ref2"></a> [2] Biggs, John. "Constructive alignment." Retrieved April 6 (2001): 2015.
+- <a id="ref3"></a> [3] Wang, Xiaoyan, et al. "An exploration of Biggs’ constructive alignment in course design and its impact on students’ learning approaches." Assessment & Evaluation in Higher Education 38.4 (2013): 477-491.
+- <a id="ref4"></a> [4] Biggs, John, and Catherine Tang. "Constructive alignment: An outcomes-based approach to teaching anatomy." Teaching anatomy: A practical guide. Cham: Springer International Publishing, 2014. 31-38.
