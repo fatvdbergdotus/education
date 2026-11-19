@@ -35,3 +35,5 @@ Frameworks used: [ALACT Model – Fred Korthagen](https://github.com/fatvdbergdo
 
 - [LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md):
 This learning outcome focuses on designing, applying, and evaluating effective assessment methods to **measure** students' **learning progress** and **achievement** of **learning objectives**. It involves developing valid, reliable, transparent, and fair assessments, applying diagnostic, formative, and summative assessment methods, and providing constructive feedback and feedforward to support student development. It also includes evaluating assessment results and using them to improve both student learning and educational quality.
+
+Frameworks used: [Assessment for Learning – Black and Wiliam](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_black) and [The Feedback Model – Hattie and Timperley](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_hattie)
