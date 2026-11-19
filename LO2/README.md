@@ -130,9 +130,9 @@ For example, if students are expected to design and implement a software applica
 
 Assessment can also take place at different stages of the learning process:
 
-- **Diagnostic assessment:** Establishes students' existing knowledge and identifies potential knowledge gaps before or at the beginning of instruction.
-- **Formative assessment:** Monitors learning progress and provides feedback that students can use to improve.
-- **Summative assessment:** Evaluates the extent to which students have achieved the intended learning outcomes at the end of a learning period.
+- **Diagnostic assessment:** is used to establish students' **existing** knowledge, skills, experience, and understanding before or **at the beginning of an educational activity or course**. Its purpose is to identify students' strengths, potential knowledge gaps, misconceptions, and individual learning needs. Teachers can use this information to adapt their teaching approach, determine an appropriate starting level, and provide additional support where necessary. For example, before starting a Java programming course, a teacher could use a short test or practical exercise to assess students' familiarity with variables, control structures, methods, and object-oriented programming. This helps ensure that the instruction builds upon students' existing knowledge.
+- **Formative assessment:** is an **ongoing process** used to **monitor** students' **learning progress** and identify areas where further development is needed. Rather than focusing primarily on grades, it provides information that both teachers and students can use to improve the learning process. Teachers can use quizzes, assignments, classroom discussions, observations, peer reviews, and practical exercises to identify misunderstandings and adjust their instruction. Students receive constructive feedback that helps them understand what they are doing well, what needs improvement, and how they can achieve the intended learning outcomes. For example, during a Java programming course, a teacher could review students' code, provide feedback on their use of object-oriented principles, and suggest improvements before the final assignment.
+- **Summative assessment:** evaluates the extent to which students have **achieved** the intended **learning outcomes** at the **end of a course**, **module**, or **learning period**. It provides an overall judgement of students' knowledge, skills, and competencies, usually resulting in a **grade**, qualification, or other formal evaluation. Unlike formative assessment, which focuses on improving learning during the process, summative assessment primarily measures the learning outcomes that have been achieved. Examples include final examinations, practical programming assignments, presentations, and projects. In a Java programming course, for instance, students might be required to independently design and implement an application, demonstrating their ability to apply programming concepts, select appropriate design solutions, and produce maintainable code.
 
 Determining the assessment approach at this stage helps ensure that the learning outcomes can be meaningfully evaluated.
 
@@ -142,7 +142,7 @@ The third stage involves designing the teaching activities, learning resources, 
 
 The teacher considers which learning experiences will provide students with the knowledge, practice, and guidance required to demonstrate the expected competencies.
 
-Possible teaching and learning activities include:
+Possible **teaching** and **learning activities** include:
 
 - **Lectures:** Introduce theoretical concepts, principles, and foundational knowledge.
 - **Tutorials:** Provide opportunities to discuss concepts, ask questions, and solve problems with guidance.
@@ -172,13 +172,11 @@ This approach helps prevent a common problem in educational design: organising a
 
 I find Backward Design useful because it encourages me to start with the intended educational goals and work backwards. It helps ensure that assessments measure relevant competencies and that teaching activities prepare students adequately.
 
-My academic and research experience has taught me the importance of defining clear objectives before selecting methods to achieve them. The same principle applies to educational design: before deciding which topics to teach or which exercises to use, I consider what students should be able to demonstrate at the end of the learning process.
+My academic and research experience has taught me the importance of defining clear objectives before selecting methods to achieve them. In research this this is for instance done by defining research questions that one would like to be answered. The same principle applies to educational design: before deciding which topics to teach or which exercises to use, I consider what students should be able to demonstrate at the end of the learning process.
 
-For example, when planning a Software Engineering course, I would first identify the desired competencies. Students might be expected to analyse requirements, design software architectures, implement solutions, and evaluate software quality.
-
-Next, I would determine how these competencies could be assessed. Practical assignments, software projects, presentations, and examinations could provide evidence of students' theoretical understanding and practical abilities. I would also establish transparent assessment criteria so that students understand the expected standards.
-
-Finally, I would design the learning activities to prepare students for these assessments. Lectures could introduce the theoretical foundations, tutorials could explore design principles, and programming exercises and workshops could provide opportunities to practise implementation and testing. A larger project could then allow students to integrate the knowledge and skills they have developed.
+For example, when planning a Software Engineering course, I would first identify the **desired competencies**. Students might be expected to analyse requirements, design software architectures, implement solutions, and evaluate software quality.
+Next, I would determine how these competencies could be assessed. Practical assignments, software projects, presentations, and examinations could provide **evidence** of students' theoretical understanding and practical abilities. I would also establish transparent assessment criteria so that students understand the expected standards.
+Finally, I would design the **learning activities** to prepare students for these assessments. Lectures could introduce the theoretical foundations, tutorials could explore design principles, and programming exercises and workshops could provide opportunities to practise implementation and testing. A larger project could then allow students to integrate the knowledge and skills they have developed.
 
 My teaching experience at Fontys University of Applied Sciences has reinforced the importance of combining theoretical explanations with practical exercises. I also consider my experience as a Student Assessor at Radboud University relevant, as it has strengthened my awareness of the importance of clear expectations and appropriate assessment.
 
