@@ -31,5 +31,5 @@ Frameworks used: [Constructive Alignment – John Biggs](https://github.com/fatv
 - [LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md):
 This learning outcome focuses on **continuous professional development** and improving one's effectiveness as an educator. It involves reflecting on teaching practices, identifying personal strengths and areas for improvement, developing pedagogical and didactic competencies, and incorporating feedback and new insights into teaching activities. The objective is to become a reflective and continuously developing professional who adapts teaching practices to students' needs and changing educational requirements.
 
-Frameworks used:
+Frameworks used: [ALACT Model – Fred Korthagen](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_korthagen) and [Gibbs' Reflective Cycle – Graham Gibbs](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_gibbs)
 
