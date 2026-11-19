@@ -88,7 +88,8 @@ Teachers should consider:
 - **Skills:** What should students be able to do? This might include solving problems, programming, analysing information, conducting experiments, or communicating results.
 - **Transfer:** How should students apply their knowledge and skills in new situations or unfamiliar contexts?
 
-Learning outcomes should be clearly formulated and sufficiently specific to guide the subsequent design of assessments and teaching activities. Bloom's taxonomy as explained below can help teachers define the expected level of cognitive development, ranging from remembering and understanding to applying, analysing, evaluating, and creating.
+Learning outcomes should be clearly formulated and sufficiently specific to guide the subsequent design of assessments and teaching activities. **Bloom's taxonomy** [[8]](#ref8)[[9]](#ref9)
+ as explained below can help teachers define the expected level of cognitive development, ranging from remembering and understanding to applying, analysing, evaluating, and creating.
 
 For example, in a Software Engineering course, desired learning outcomes might include:
 
@@ -100,7 +101,7 @@ For example, in a Software Engineering course, desired learning outcomes might i
 
 Defining these outcomes first establishes a clear direction for the entire course.
 
-The following table provides the processes of Bloom's taxonomy and provides an Java/OOP example for each of them.
+The following table provides the different process levels of Bloom's taxonomy and illustrates each one of them using a Java/OOP example.
 
 | Level | Cognitive process | Main question | Example (Java / OOP) |
 |---|---|---|---|
@@ -195,3 +196,5 @@ Ultimately, Backward Design helps create **purposeful, coherent, and goal-orient
 - <a id="ref5"></a> [5] McTighe, Jay, and Ronald S. Thomas. "Backward design for forward action." Educational leadership 60.5 (2003): 52-55.
 - <a id="ref6"></a> [6] Wiggins, Grant, and Jay McTighe. "What is backward design." Understanding by design 1 (1998): 7-19.
 - <a id="ref7"></a> [7] Wiggins, Grant P., Jay McTighe, and Jay McTighe. Understanding by design. Vol. 2. Alexandria, VA: Association for supervision and curriculum development, 2005.
+- <a id="ref8"></a> [8] Armstrong, Patricia. "Bloom’s taxonomy." Vanderbilt University Center for Teaching 12.05 (2010): 2023.
+- <a id="ref9"></a> [9] Krathwohl, David R. "A revision of Bloom's taxonomy: An overview." Theory into practice 41.4 (2002): 212-218.
