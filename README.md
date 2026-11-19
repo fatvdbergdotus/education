@@ -21,15 +21,15 @@ Education methods describe different approaches to organising and facilitating t
 - [LO1 Guiding Learning Processes](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md):
 This learning outcome focuses on the ability to **guide and support students** throughout their learning process. It involves understanding and applying different educational approaches, including course-based, demand-based, research-based, and open learning. It also covers selecting appropriate assessment methods and didactic approaches, as well as supervising students to support their academic progress, personal development, and achievement of learning objectives.
 
-<p style="padding-left: 40px;">Frameworks used: [Self-Regulated Learning – Zimmerman](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md#framework_zimmerman) and [Zone of Proximal Development – Vygotsky](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md#framework_vygotsky)</p>
+Frameworks used: [Self-Regulated Learning – Zimmerman](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md#framework_zimmerman) and [Zone of Proximal Development – Vygotsky](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md#framework_vygotsky)
 
 - [LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md):
 This learning outcome focuses on **designing effective educational activities**, courses, and assessment strategies. It involves defining appropriate learning outcomes, applying Bloom's taxonomy to establish the required levels of cognitive development, and designing assessment processes that align with educational objectives. It also addresses different assessment types (diagnostic, formative, and summative) and the importance of validity, reliability, and transparency in assessment.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Frameworks used: [Constructive Alignment – John Biggs](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_biggs) and [Backward Design – Wiggins and McTighe](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_wiggins)
+Frameworks used: [Constructive Alignment – John Biggs](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_biggs) and [Backward Design – Wiggins and McTighe](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_wiggins)
 
 - [LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md):
 This learning outcome focuses on **continuous professional development** and improving one's effectiveness as an educator. It involves reflecting on teaching practices, identifying personal strengths and areas for improvement, developing pedagogical and didactic competencies, and incorporating feedback and new insights into teaching activities. The objective is to become a reflective and continuously developing professional who adapts teaching practices to students' needs and changing educational requirements.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Frameworks used: [ALACT Model – Fred Korthagen](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_korthagen) and [Gibbs' Reflective Cycle – Graham Gibbs](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_gibbs)
+Frameworks used: [ALACT Model – Fred Korthagen](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_korthagen) and [Gibbs' Reflective Cycle – Graham Gibbs](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md#framework_gibbs)
 
