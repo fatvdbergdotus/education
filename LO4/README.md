@@ -8,7 +8,7 @@ An important aspect of this learning outcome is using assessment as a tool to su
 <a id="framework_black"></a>
 ## Assessment for Learning – Black and Wiliam
 
-**Assessment for Learning (AfL)** is an educational approach developed through the influential research of Paul Black and Dylan Wiliam. It focuses on using assessment not merely to measure what students have learned, but also to actively improve their learning while it is taking place.
+**Assessment for Learning (AfL)** [[1]](#ref1)[[2]](#ref2)[[3]](#ref3)[[4]](#ref4) is an educational approach developed through the influential research of Paul Black and Dylan Wiliam. It focuses on using assessment not merely to measure what students have learned, but also to actively improve their learning while it is taking place.
 
 The central idea is that assessment should be an ongoing part of the teaching and learning process. Rather than waiting until the end of a course to discover whether students have understood the material, teachers continuously gather information about students' knowledge, skills, understanding and difficulties. They use this information to adapt their teaching, provide feedback and help students identify areas for improvement.
 
@@ -120,7 +120,7 @@ This also requires a safe learning environment in which students feel comfortabl
 <a id="framework_hattie"></a>
 ## The Feedback Model – Hattie and Timperley
 
-The **Feedback Model**, developed by John Hattie and Helen Timperley (2007), explains how feedback can significantly influence student learning and achievement. Their research emphasises that effective feedback is not simply about telling students whether their answers are correct or incorrect. Instead, feedback should help students understand their current performance, identify areas for improvement and determine the next steps in their learning process.
+The **Feedback Model** [[5]](#ref5)[[6]](#ref6)[[7]](#ref7), developed by John Hattie and Helen Timperley (2007), explains how feedback can significantly influence student learning and achievement. Their research emphasises that effective feedback is not simply about telling students whether their answers are correct or incorrect. Instead, feedback should help students understand their current performance, identify areas for improvement and determine the next steps in their learning process.
 
 The model considers feedback as information provided by teachers, peers, or other sources about aspects of a student's performance or understanding. Effective feedback helps close the gap between a student's current level of performance and the desired learning objectives. It should be specific, constructive, understandable and actionable. Importantly, feedback should focus on improving learning rather than simply evaluating or judging students.
 
@@ -265,3 +265,12 @@ Giving students a grade or simply telling them that their work is incorrect does
 A supportive learning environment is essential. Students should feel comfortable asking questions, making mistakes and receiving constructive criticism. Mistakes should be treated as opportunities for development rather than as failures. Teachers should also be open to feedback from students and willing to adapt their teaching methods when necessary.
 
 **Key takeaway:** Effective feedback does not simply tell students how they performed. It helps them understand where they are going, how they are progressing and what they can do next to improve.
+
+# References
+- <a id="ref1"></a> [1] Wiliam, Dylan. "What is assessment for learning?." Studies in educational evaluation 37.1 (2011): 3-14.
+- <a id="ref2"></a> [2] Black, Paul, and Dylan Wiliam. "Classroom assessment and pedagogy." Assessment in education: Principles, policy & practice 25.6 (2018): 551-575.
+- <a id="ref3"></a> [3] Black, Paul, and Dylan Wiliam. Inside the black box: Raising standards through classroom assessment. Granada Learning, 1998.
+- <a id="ref4"></a> [4] Black, Paul, and Dylan Wiliam. "The formative purpose: Assessment must first promote learning." Yearbook of the National Society for the Study of Education 103.2 (2004): 20-50.
+- <a id="ref5"></a> [5] Hattie, John, and Helen Timperley. "The power of feedback." Review of educational research 77.1 (2007): 81-112.
+- <a id="ref6"></a> [6] Mandouit, Luke, and John Hattie. "Revisiting “The Power of Feedback” from the perspective of the learner." Learning and Instruction 84 (2023): 101718.
+- <a id="ref7"></a> [7] Brooks, Cameron, et al. "A matrix of feedback for learning." Australian Journal of Teacher Education (Online) 44.4 (2019): 14-32.
