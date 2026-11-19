@@ -32,17 +32,6 @@ Constructive alignment encourages teachers to start by defining what students sh
 
 3. **Assessment Tasks (ATs):** These are the methods used to determine whether students have achieved the intended learning outcomes. Assessment should **measure** the **knowledge**, **skills**, and **competencies** specified in the outcomes. Examples include written **examinations**, programming **assignments**, practical **demonstrations**, **presentations**, **portfolios**, and project **evaluations**. Assessment criteria should be transparent and clearly communicate what is expected of students.
 
-The following table provides the processes of Bloom's taxonomy and provides an Java/OOP example for each of them.
-
-| Level | Cognitive process | Main question | Example (Java / OOP) |
-|---|---|---|---|
-| **1. Remember** | Recall information | What do I know? | Identify and list the four fundamental principles of OOP: encapsulation, inheritance, polymorphism, and abstraction. |
-| **2. Understand** | Explain concepts | What does it mean? | Explain the difference between inheritance and composition and describe when each approach is appropriate. |
-| **3. Apply** | Use knowledge in practice | How can I use it? | Implement a Java application using classes, objects, interfaces, inheritance, and encapsulation. |
-| **4. Analyse** | Examine relationships and structures | How does it work? | Analyse an existing software architecture, identify tightly coupled components, and explain their impact on maintainability and extensibility. |
-| **5. Evaluate** | Assess and justify decisions | Is this the best solution? | Compare alternative software designs based on maintainability, scalability, performance, and code quality, and justify the preferred approach. |
-| **6. Create** | Develop new ideas and solutions | What can I design or develop? | Independently design and implement a complete object-oriented application, selecting appropriate architectural patterns and justifying the design decisions. |
-
 #### The relationship between the three elements
 
 The three elements must be aligned with one another:
@@ -99,7 +88,7 @@ Teachers should consider:
 - **Skills:** What should students be able to do? This might include solving problems, programming, analysing information, conducting experiments, or communicating results.
 - **Transfer:** How should students apply their knowledge and skills in new situations or unfamiliar contexts?
 
-Learning outcomes should be clearly formulated and sufficiently specific to guide the subsequent design of assessments and teaching activities. Bloom's taxonomy can help teachers define the expected level of cognitive development, ranging from remembering and understanding to applying, analysing, evaluating, and creating.
+Learning outcomes should be clearly formulated and sufficiently specific to guide the subsequent design of assessments and teaching activities. Bloom's taxonomy as explained below can help teachers define the expected level of cognitive development, ranging from remembering and understanding to applying, analysing, evaluating, and creating.
 
 For example, in a Software Engineering course, desired learning outcomes might include:
 
@@ -110,6 +99,17 @@ For example, in a Software Engineering course, desired learning outcomes might i
 - Test and evaluate the quality of a software application.
 
 Defining these outcomes first establishes a clear direction for the entire course.
+
+The following table provides the processes of Bloom's taxonomy and provides an Java/OOP example for each of them.
+
+| Level | Cognitive process | Main question | Example (Java / OOP) |
+|---|---|---|---|
+| **1. Remember** | Recall information | What do I know? | Identify and list the four fundamental principles of OOP: encapsulation, inheritance, polymorphism, and abstraction. |
+| **2. Understand** | Explain concepts | What does it mean? | Explain the difference between inheritance and composition and describe when each approach is appropriate. |
+| **3. Apply** | Use knowledge in practice | How can I use it? | Implement a Java application using classes, objects, interfaces, inheritance, and encapsulation. |
+| **4. Analyse** | Examine relationships and structures | How does it work? | Analyse an existing software architecture, identify tightly coupled components, and explain their impact on maintainability and extensibility. |
+| **5. Evaluate** | Assess and justify decisions | Is this the best solution? | Compare alternative software designs based on maintainability, scalability, performance, and code quality, and justify the preferred approach. |
+| **6. Create** | Develop new ideas and solutions | What can I design or develop? | Independently design and implement a complete object-oriented application, selecting appropriate architectural patterns and justifying the design decisions. |
 
 #### 2. Determine Acceptable Evidence
 
