@@ -37,6 +37,8 @@ Finally, I want to put the knowledge and experience I have accumulated throughou
 My academic career has also provided me with opportunities to travel and experience different cultures. Through conferences, research collaborations, and other academic activities, I have visited several cities, including Munich, Paris, Venice, Madrid, Berlin, Prague, and Valencia. These experiences have broadened my perspective and allowed me to meet people from different backgrounds and academic disciplines.
 
 Below are some photographs taken during my visits abroad.
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="mermaid.jpg" width="200">
