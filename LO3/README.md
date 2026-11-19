@@ -4,6 +4,7 @@
 
 Professional development involves reflecting on teaching practices, identifying areas for improvement, using feedback, and continuously developing professional competencies. Two relevant frameworks are the ALACT Model and Gibbs' Reflective Cycle.
 
+<a id="framework_korthagen"></a>
 ## ALACT Model – Fred Korthagen
 
 ```mermaid
@@ -135,6 +136,7 @@ Ultimately, the ALACT model reinforces my belief that professional development i
 
 **How I apply this framework:** I can apply the ALACT model to my teaching experience at Fontys University of Applied Sciences, where I taught Software Engineering, Functional Programming, and Systems Thinking. For example, after a lecture or workshop, I reflect on whether students understood the material, whether the activities supported the intended learning outcomes, and which aspects could be improved. I use observations, student questions, assessment results, and feedback to identify areas for development. I then consider alternative explanations, teaching methods, or exercises and try them in subsequent sessions. My experience as a Student Assistant and Student Assessor at Radboud University, as well as supervising internship students, also provides opportunities to reflect on how I guide, assess, and support students. By repeating this process, I aim to continuously improve my teaching practice.
 
+<a id="framework_gibbs"></a>
 ## Gibbs' Reflective Cycle – Graham Gibbs
 
 ```mermaid
