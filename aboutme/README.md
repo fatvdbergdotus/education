@@ -1,7 +1,7 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
 # About me
-I am Freek van den Berg, 46 jaar oud. My father is a car mechanic and my mother an assistant accountant. Both of them are good with numbers and I was lucky to inherit this property from both; I passed the Mensa International test on number sequences. I have a passionate and enthusiastic personality and like to give people a good time. Furthermore, I would say I am modest, down to earth, and like to treat everyone equally.
+I am Freek van den Berg and born in 1980. My father is a car mechanic and my mother an assistant accountant. Both of them are good with numbers and I was lucky to inherit this property from both; I passed the Mensa International test in 2009 on number sequences. I have a passionate and enthusiastic personality and like to give people a good time. Furthermore, I would say I am modest, down to earth, and like to treat everyone equally.
 
 At age three, I got in touch with a computer, namely the successful Commodore 64. At age ten, I followed a Scheidegger computer course that made me familiar with MS-DOS and an Office suite product. Meanwhile, I was not only occupied by playing on the computer, namely, I played a lot of football too. I did this on the streets and have been member of a club for over five years. During my primary school time I was always able to have friends, but instead of having many friends, I generally had a small group of friends with whom I had an intensive contact. I did not always have a good time at school because of my sensitivity but was on the other hand able to judge situations well because of my cognitive skills.
 
