@@ -32,6 +32,16 @@ Secondly, I believe teaching should be a two-way learning process. Although I ha
 
 Finally, I want to put the knowledge and experience I have accumulated throughout my academic and professional career to practical use. I have spent many years working alongside highly skilled researchers and professionals, continuously developing my own expertise. I now feel that I can make a meaningful contribution by sharing this experience with younger generations and helping them develop the skills they need for their future careers.
 
+## Hobbies and Personal Interests
+
+Outside my professional and academic activities, I enjoy spending time on a variety of personal interests. Computers and technology have been a part of my life since early childhood, and my curiosity about technological developments has remained strong throughout the years. I enjoy exploring new technologies, experimenting with software, and expanding my technical knowledge, even outside my professional responsibilities.
+
+Football has also played an important role in my life since childhood. I spent many hours playing football on the streets and was a member of a football club for more than five years. Besides the physical activity, I particularly enjoyed the social aspect and the teamwork involved.
+
+Travelling is another interest of mine. I enjoy discovering new places, experiencing different cultures, and meeting people with different backgrounds and perspectives. My academic career has provided me with many opportunities to travel internationally, which has further strengthened this interest.
+
+In general, I enjoy activities that allow me to learn something new, challenge myself, or broaden my perspective. Whether this involves exploring technology, engaging in physical activities, or discovering new places, I appreciate opportunities to develop myself and gain new experiences.
+
 ## International Experience
 
 My academic career has also provided me with opportunities to travel and experience different cultures. Through conferences, research collaborations, and other academic activities, I have visited several cities, including Munich, Paris, Venice, Madrid, Berlin, Prague, and Valencia. These experiences have broadened my perspective and allowed me to meet people from different backgrounds and academic disciplines.
