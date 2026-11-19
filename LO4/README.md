@@ -5,6 +5,7 @@ Examining and Assessing focuses on designing, applying, and evaluating assessmen
 
 An important aspect of this learning outcome is using assessment as a tool to support and improve learning rather than merely measuring performance. Through formative assessment, teachers identify knowledge gaps, monitor student progress, and adapt their teaching strategies. Constructive feedback and feedforward help students understand their strengths, recognise areas for improvement, and take responsibility for their development. The frameworks of Assessment for Learning (Black and Wiliam) and the Feedback Model (Hattie and Timperley) provide valuable foundations for putting these principles into practice.
 
+<a id="framework_black"></a>
 ## Assessment for Learning – Black and Wiliam
 
 **Assessment for Learning (AfL)** is an educational approach developed through the influential research of Paul Black and Dylan Wiliam. It focuses on using assessment not merely to measure what students have learned, but also to actively improve their learning while it is taking place.
@@ -116,6 +117,7 @@ This also requires a safe learning environment in which students feel comfortabl
 
 **Key takeaway:** A good teacher does not simply measure what students know; a good teacher uses assessment to discover what students need to learn next.
 
+<a id="framework_hattie"></a>
 ## The Feedback Model – Hattie and Timperley
 
 The **Feedback Model**, developed by John Hattie and Helen Timperley (2007), explains how feedback can significantly influence student learning and achievement. Their research emphasises that effective feedback is not simply about telling students whether their answers are correct or incorrect. Instead, feedback should help students understand their current performance, identify areas for improvement and determine the next steps in their learning process.
