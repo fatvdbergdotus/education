@@ -1,25 +1,42 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
-# About me
-I am Freek van den Berg and born in 1980. My father is a car mechanic and my mother an assistant accountant. Both of them are good with numbers and I was lucky to inherit this property from both; I passed the Mensa International test in 2009 on number sequences. I have a passionate and enthusiastic personality and like to give people a good time. Furthermore, I would say I am modest, down to earth, and like to treat everyone equally.
+# About Me
 
-At age three, I got in touch with a computer, namely the successful Commodore 64. At age ten, I followed a Scheidegger computer course that made me familiar with MS-DOS and an Office suite product. Meanwhile, I was not only occupied by playing on the computer, namely, I played a lot of football too. I did this on the streets and have been member of a club for over five years. During my primary school time I was always able to have friends, but instead of having many friends, I generally had a small group of friends with whom I had an intensive contact. I did not always have a good time at school because of my sensitivity but was on the other hand able to judge situations well because of my cognitive skills.
+My name is Freek van den Berg, and I was born in 1980. My father is a car mechanic, while my mother works as an assistant accountant. Both are naturally good with numbers, and I was fortunate enough to inherit this ability from them. In 2009, I passed the Mensa International test on numerical sequences. I would describe myself as passionate and enthusiastic, with a genuine interest in making people feel comfortable and having a good time. At the same time, I consider myself modest and down-to-earth, and I believe in treating everyone equally, regardless of their background or position.
 
-In the secondary school, I was mostly interested in the exact courses that involved numbers, e.g., mathematics, physics and economy. I had to bike 20 kilometres to get to school every day for seven years regardless of the weather. This has shaped my personality and has made me appreciate having a car later.
+## Early Years and Education
 
-At the university, I studied information science in Nijmegen. This lead to a bachelor and master degree. Meanwhile, I had several jobs at the university including being a student assessor, i.e., representing the students in the education board. Next to that, I was a teaching assistant for several programming courses. For this, I attended practical classes and helped the students when they had problems with their programming assignments.  I enjoyed helping my fellow students and making some extra money aside. Several years later, I additionally received a master degree in Computer Science.
+My interest in computers began at the age of three, when I was introduced to the highly successful Commodore 64. At the age of ten, I attended a computer course at Scheidegger, where I became familiar with MS-DOS and office software. However, computers were not my only interest. I also spent a considerable amount of time playing football, both on the streets and as a member of a football club, where I played for more than five years.
 
-I became a PhD candidate at the University of Twente in collaboration with Philips Healthcare in 2012; I evaluated the performance of the Medical Machines of Philips and automated this using a so-called Domain Specific Language named iDSL. I received my PhD in 2017 after a successful defence.
-After this, I attended a Post-Doctoral position at the University of Twente in collaboration with the Wageningen University and Research. It resulted into a Domain Specific Language for Cyber-Physical Systems called aDSL.
-This was followed by a Post-Doctoral position that lasted 2.5 years at the Eindhoven University of Technology. A Domain Specific Language for Quality and Resource management, i.e., QRML, was constructed in collaboration with Philips Healthcare as the main project partner.
+During primary school, I generally maintained a small circle of close friends rather than having a large social network. Although I did not always find school an easy environment, partly due to my sensitivity, I believe my cognitive abilities helped me understand and assess situations effectively.
 
-A few months before my contract ended, I came across a teacher vacancy at Fontys University. They offered me the opportunity to receive my teacher qualification (BKO) and also the ability to visit companies via internships. Reasons for me to be a teacher include the following. I would like to:
-- to help people. It makes me feel good that my knowledge is being absorbed by them and that over the semester they mature a bit.
-- the student to teach me things as much as I teach them. It is impossible to stay up-to-date with all the latest technologies, therefore it is not uncommon that the student explains things.
-- that what I have learned over my lifetime can be applied in a useful way. I worked hard most of my life with people around me that have equal skills. By now working with people who are younger and have less skills yet, I feel I can really contribute.
+During secondary school, I was particularly interested in subjects involving numbers and analytical reasoning, such as mathematics, physics, and economics. For seven years, I cycled 20 kilometres to school every day, regardless of the weather. This experience helped shape my perseverance and determination, and it certainly taught me to appreciate the convenience of having a car later in life!
 
-My academic career allowed my to travel much, including trips to Munich, Paris, Venice, Madrid, Berlin, Prague and Valencia. Below are some pictures of me in foreign countries.
-<table align="center">
+## University and Academic Career
+
+I studied Information Science at Radboud University in Nijmegen, where I obtained both my bachelor's and master's degrees. During my studies, I became involved in several university activities. I served as a student assessor, representing students on the university's education board, and worked as a teaching assistant for several programming courses. In the latter role, I attended practical sessions and helped students overcome difficulties with their programming assignments. I particularly enjoyed helping fellow students understand programming concepts and seeing them make progress. It was also a nice opportunity to earn some additional money alongside my studies. Several years later, I obtained an additional master's degree in Computer Science.
+
+In 2012, I started my PhD at the University of Twente in collaboration with Philips Healthcare. My research focused on evaluating the performance of Philips medical equipment and automating this process through a Domain-Specific Language (DSL) called iDSL. After successfully defending my dissertation, I received my PhD in 2017.
+
+Following my PhD, I continued my academic career as a postdoctoral researcher at the University of Twente, in collaboration with Wageningen University & Research. This research resulted in the development of a Domain-Specific Language for Cyber-Physical Systems called aDSL.
+
+Subsequently, I joined Eindhoven University of Technology as a postdoctoral researcher, where I worked for approximately two and a half years. In collaboration with Philips Healthcare as the main industrial partner, we developed the Quality and Resource Management Language (QRML), another Domain-Specific Language designed to address challenges in quality and resource management.
+
+## From Research to Teaching
+
+A few months before my contract at Eindhoven University of Technology ended, I came across a teaching vacancy at Fontys University of Applied Sciences. This opportunity offered me the possibility of transitioning from academic research into higher education, while also providing support in obtaining my University Teaching Qualification (BKO). It additionally gave me the opportunity to gain practical experience through company visits and internships.
+
+There are several reasons why I enjoy teaching and why I decided to pursue this career. First and foremost, I genuinely enjoy helping people. It gives me great satisfaction to see students absorb new knowledge, develop their skills, and mature throughout a semester. Being able to contribute to someone's personal and professional development is one of the most rewarding aspects of teaching.
+
+Secondly, I believe teaching should be a two-way learning process. Although I have knowledge and experience to share, I also expect students to teach me things in return. Technology evolves rapidly, making it virtually impossible for anyone to remain fully up-to-date with every new development. Consequently, students sometimes introduce me to new technologies, approaches, or insights. I consider this exchange of knowledge a valuable part of education.
+
+Finally, I want to put the knowledge and experience I have accumulated throughout my academic and professional career to practical use. I have spent many years working alongside highly skilled researchers and professionals, continuously developing my own expertise. I now feel that I can make a meaningful contribution by sharing this experience with younger generations and helping them develop the skills they need for their future careers.
+
+## International Experience
+
+My academic career has also provided me with opportunities to travel and experience different cultures. Through conferences, research collaborations, and other academic activities, I have visited several cities, including Munich, Paris, Venice, Madrid, Berlin, Prague, and Valencia. These experiences have broadened my perspective and allowed me to meet people from different backgrounds and academic disciplines.
+
+Below are some photographs taken during my visits abroad.
   <tr>
     <td align="center">
       <img src="mermaid.jpg" width="200">
