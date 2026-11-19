@@ -2,9 +2,9 @@
 
 # LO3 Professional Development as a Teacher
 
-Professional development as a teacher is a continuous process of reflecting on teaching practices, identifying areas for improvement, and developing the knowledge, skills, and competencies required to support students effectively. I believe that becoming a good teacher requires more than subject-matter expertise; it also involves pedagogical knowledge, communication skills, adaptability, and an openness to new perspectives. My academic and professional background in research has taught me the importance of critical thinking, asking questions, and continuously expanding my knowledge. I apply the same principles to teaching, recognising that professional development is an ongoing journey rather than a final destination.
+Professional development as a teacher is a continuous process of **reflecting on teaching practices**, identifying **areas for improvement**, and **developing the knowledge, skills, and competencies** required to support students effectively. I believe that becoming a good teacher requires more than subject-matter expertise; it also involves pedagogical knowledge, communication skills, adaptability, and an openness to new perspectives. My academic and professional background in research has taught me the importance of **critical thinking**, **asking questions**, and continuously **expanding my knowledge**. I apply the same principles to teaching, recognising that professional development is an ongoing journey rather than a final destination.
 
-An essential part of my professional development is reflecting on experiences, seeking feedback from students and colleagues, and translating these insights into improvements in my teaching. I strongly believe that mistakes are valuable learning opportunities, not only for students but also for teachers. The more knowledge and experience one acquires, the more one realises how much remains to be discovered. This awareness encourages me to remain curious, humble, and open to new ideas. By engaging in professional development activities, exchanging experiences with colleagues, and exploring educational theories and methodologies, I aim to continuously improve my teaching practice and create an increasingly effective and supportive learning environment.
+An essential part of my professional development is reflecting on experiences, seeking **feedback from students and colleagues**, and translating these insights into improvements in my teaching. I strongly believe that mistakes are valuable learning opportunities, not only for students but also for teachers. The more knowledge and experience one acquires, the more one realises how much remains to be discovered. This awareness encourages me to remain **curious**, **humble**, and **open to new ideas**. By engaging in professional development activities, exchanging experiences with colleagues, and exploring educational theories and methodologies, I aim to continuously improve my teaching practice and create an increasingly effective and supportive learning environment.
 
 <a id="framework_korthagen"></a>
 ## ALACT Model – Fred Korthagen
@@ -34,7 +34,7 @@ The five phases form a continuous cycle. The outcome of one reflection process b
 
 #### 1. Action
 
-The first phase involves carrying out a professional activity or performing a task in a real educational situation. This could involve teaching a lecture, organising a workshop, supervising a student, assessing an assignment, or facilitating a group discussion.
+The first phase involves **carrying out a professional activity** or performing a task in a real educational situation. This could involve teaching a lecture, organising a workshop, supervising a student, assessing an assignment, or facilitating a group discussion.
 
 At this stage, the teacher focuses on performing the activity and responding to the circumstances that arise. Although the activity may have been carefully planned, unexpected situations can occur. Students may have different levels of prior knowledge, misunderstand an explanation, ask unexpected questions, or experience difficulties with an assignment.
 
@@ -44,7 +44,7 @@ For example, when teaching a programming class, I might introduce a new programm
 
 #### 2. Looking Back
 
-The second phase involves looking back at the experience and reconstructing what happened. The objective is to examine the activity objectively and identify relevant observations.
+The second phase involves looking back at the experience and **reconstructing what happened**. The objective is to examine the activity objectively and identify relevant observations.
 
 Teachers can consider questions such as:
 
@@ -64,7 +64,7 @@ For example, after a programming workshop, I might observe that students underst
 
 #### 3. Awareness of Essential Aspects
 
-The third phase involves analysing the experience in greater depth to identify the important factors that influenced the outcome. Rather than simply describing what happened, the teacher examines why it happened and considers the relationship between their own actions, students' responses, and the learning environment.
+The third phase involves **analysing** the **experience** in **greater depth** to identify the important factors that influenced the outcome. Rather than simply describing what happened, the teacher examines **why** it happened and considers the relationship between their own actions, students' responses, and the learning environment.
 
 Questions to consider include:
 
@@ -76,7 +76,7 @@ Questions to consider include:
 - Were there assumptions in my approach that should be reconsidered?
 - How might my own behaviour or expectations have influenced the situation?
 
-This phase requires critical self-reflection. Teachers should be willing to question their own decisions and recognise that difficulties do not necessarily originate from students. The structure of an assignment, the explanation of a concept, the choice of teaching method, or the amount of guidance provided may also contribute to the situation.
+This phase requires **critical self-reflection**. Teachers should be willing to question their own decisions and recognise that difficulties do not necessarily originate from students. The structure of an assignment, the explanation of a concept, the choice of teaching method, or the amount of guidance provided may also contribute to the situation.
 
 For example, if students struggle with a programming exercise, the problem may not be a lack of ability or motivation. The exercise might require knowledge that has not yet been sufficiently explained or practised. Alternatively, the assignment might contain several unfamiliar concepts at once, making it unnecessarily difficult.
 
@@ -84,7 +84,7 @@ Recognising these underlying factors helps teachers understand what needs to cha
 
 #### 4. Creating Alternative Methods of Action
 
-In the fourth phase, teachers use the insights gained during the analysis to consider alternative approaches. The objective is to identify practical improvements that could lead to better learning experiences or outcomes.
+In the fourth phase, teachers use the insights gained during the analysis to consider **alternative approaches**. The objective is to identify practical improvements that could lead to better learning experiences or outcomes.
 
 Possible questions include:
 
@@ -104,7 +104,7 @@ The alternatives should be realistic and appropriate for the learning objectives
 
 #### 5. Trial
 
-The fifth phase involves putting the selected alternative into practice. The teacher applies the proposed improvement in a subsequent teaching activity and evaluates whether it produces better results.
+The fifth phase involves putting the **selected alternative into practice**. The teacher applies the proposed improvement in a subsequent teaching activity and evaluates whether it produces better results.
 
 Questions to consider include:
 
@@ -128,15 +128,13 @@ I can apply the model to my teaching experience at Fontys University of Applied 
 
 My experience as a Student Assistant and Student Assessor at Radboud University, as well as my experience supervising internship students, also provides opportunities for reflection. When guiding or assessing students, I can consider whether my explanations were sufficiently clear, whether my feedback was constructive, and whether I provided the appropriate balance between guidance and independence.
 
-I also consider feedback from students and colleagues an important part of professional development. Different perspectives can reveal aspects of my teaching that I might otherwise overlook. Rather than treating feedback as criticism, I view it as an opportunity to understand how my teaching is experienced by others and identify possible improvements.
+I also consider **feedback** from students and colleagues an important part of professional development. Different perspectives can reveal aspects of my teaching that I might otherwise overlook. Rather than treating feedback as criticism, I view it as an opportunity to understand how my teaching is experienced by others and identify possible improvements.
 
 An important aspect of my teaching philosophy is that **teachers should also be willing to make mistakes, acknowledge them, and learn from them**. A teacher is not expected to know everything or to have an immediate answer to every question. Recognising uncertainty, correcting misunderstandings, and adapting one's approach are important elements of professional development.
 
 This attitude also contributes to a safe learning environment. When teachers demonstrate that mistakes are part of the learning process, students are more likely to feel comfortable asking questions, experimenting, and acknowledging their own difficulties.
 
 Ultimately, the ALACT model reinforces my belief that professional development is a continuous process. By systematically reflecting on experiences, examining underlying factors, considering alternatives, and testing improvements, I aim to become a more effective, reflective, and adaptable teacher.
-
-**How I apply this framework:** I can apply the ALACT model to my teaching experience at Fontys University of Applied Sciences, where I taught Software Engineering, Functional Programming, and Systems Thinking. For example, after a lecture or workshop, I reflect on whether students understood the material, whether the activities supported the intended learning outcomes, and which aspects could be improved. I use observations, student questions, assessment results, and feedback to identify areas for development. I then consider alternative explanations, teaching methods, or exercises and try them in subsequent sessions. My experience as a Student Assistant and Student Assessor at Radboud University, as well as supervising internship students, also provides opportunities to reflect on how I guide, assess, and support students. By repeating this process, I aim to continuously improve my teaching practice.
 
 <a id="framework_gibbs"></a>
 ## Gibbs' Reflective Cycle – Graham Gibbs
@@ -168,7 +166,7 @@ The six stages form a cycle because the action plan developed at the end can be 
 
 #### 1. Description
 
-The first stage involves describing the experience or situation that will be reflected upon. The objective is to establish a clear and factual understanding of what happened, without immediately judging whether the experience was successful or unsuccessful.
+The first stage involves describing the **experience or situation** that will be **reflected** upon. The objective is to establish a clear and factual understanding of what happened, without immediately judging whether the experience was successful or unsuccessful.
 
 In an educational context, the experience might involve delivering a lecture, organising a workshop, assessing student assignments, supervising an internship student, or handling a challenging classroom situation.
 
@@ -188,7 +186,7 @@ The purpose of this stage is to establish the context for the subsequent reflect
 
 #### 2. Feelings
 
-The second stage focuses on the thoughts, emotions, and expectations experienced during the situation and afterwards. Understanding these feelings can help teachers recognise how their own attitudes, assumptions, and reactions influence their professional behaviour.
+The second stage focuses on the **thoughts, emotions, and expectations** experienced during the situation and afterwards. Understanding these feelings can help teachers recognise how their own attitudes, assumptions, and reactions influence their professional behaviour.
 
 Questions to consider include:
 
