@@ -2,7 +2,9 @@
 
 # LO3 Professional Development as a Teacher
 
-Professional development involves reflecting on teaching practices, identifying areas for improvement, using feedback, and continuously developing professional competencies. Two relevant frameworks are the ALACT Model and Gibbs' Reflective Cycle.
+Professional development as a teacher is a continuous process of reflecting on teaching practices, identifying areas for improvement, and developing the knowledge, skills, and competencies required to support students effectively. I believe that becoming a good teacher requires more than subject-matter expertise; it also involves pedagogical knowledge, communication skills, adaptability, and an openness to new perspectives. My academic and professional background in research has taught me the importance of critical thinking, asking questions, and continuously expanding my knowledge. I apply the same principles to teaching, recognising that professional development is an ongoing journey rather than a final destination.
+
+An essential part of my professional development is reflecting on experiences, seeking feedback from students and colleagues, and translating these insights into improvements in my teaching. I strongly believe that mistakes are valuable learning opportunities, not only for students but also for teachers. The more knowledge and experience one acquires, the more one realises how much remains to be discovered. This awareness encourages me to remain curious, humble, and open to new ideas. By engaging in professional development activities, exchanging experiences with colleagues, and exploring educational theories and methodologies, I aim to continuously improve my teaching practice and create an increasingly effective and supportive learning environment.
 
 <a id="framework_korthagen"></a>
 ## ALACT Model – Fred Korthagen
