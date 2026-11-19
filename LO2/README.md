@@ -4,6 +4,7 @@
 
 Designing education involves developing coherent courses, defining learning objectives, selecting teaching activities, and creating appropriate assessment methods. Two relevant frameworks are Constructive Alignment and Backward Design.
 
+<a id="framework_biggs"></a>
 ## Constructive Alignment – John Biggs
 
 ```mermaid
@@ -57,6 +58,7 @@ Ultimately, constructive alignment helps create a learning environment in which 
 
 **How I apply this framework:** My teaching experience at Fontys, where I taught Software Engineering, Functional Programming, and Systems Thinking, has shown me the importance of connecting learning objectives, teaching activities, and assessment methods. When designing a course or individual learning activity, I first consider what students should know and be able to demonstrate by the end. I then select appropriate teaching methods, such as lectures, programming exercises, workshops, and practical assignments, to help them achieve these objectives. Finally, I ensure that assessment methods evaluate the intended knowledge and skills. My experience as a Student Assessor at Radboud University has also strengthened my awareness of the importance of transparent and appropriate assessment. I believe that students should understand what is expected of them and how their work will be evaluated.
 
+<a id="framework_wiggins"></a>
 ## Backward Design – Wiggins and McTighe
 
 ```mermaid
