@@ -128,7 +128,9 @@ Important considerations include:
 
 The relationship between reliability and validity can be illustrated graphically as follows.
 
-![Reliability and Validity](ReliabilityandValidity.png)
+<p align="center">
+  <img src="ReliabilityandValidity.png" alt="Relationship between Reliability and Validity" width="400">
+</p>
 
 For example, if students are expected to design and implement a software application, a theoretical examination alone would not provide sufficient evidence of their practical programming and design capabilities. A practical project, supported by documentation and a demonstration, would provide more appropriate evidence.
 
