@@ -2,7 +2,9 @@
 
 # LO1 Guiding Learning Processes
 
-Guiding learning processes involves supporting students throughout their learning journey, encouraging independence, providing feedback, and selecting appropriate teaching methods. Two relevant frameworks are Self-Regulated Learning and the Zone of Proximal Development.
+Guiding learning processes involves supporting students throughout their learning journey by creating an engaging, structured, and supportive educational environment. It requires understanding students' prior knowledge, learning needs, and individual differences, while selecting appropriate teaching methods and learning activities that encourage active participation, critical thinking, and independent learning. As a teacher, my role is not limited to transferring knowledge but also includes facilitating learning, providing guidance, encouraging collaboration, and helping students take responsibility for their own development.
+
+An effective learning process requires a safe environment in which students feel comfortable asking questions, expressing ideas, experimenting, and making mistakes without fear of judgement. I believe that mistakes are an essential part of learning, not only for students but also for teachers. By providing constructive feedback, adapting teaching strategies, and continuously reflecting on my own practices, I aim to create an inclusive learning environment in which everyone can develop. Ultimately, guiding learning processes means finding the right balance between providing structure and giving students the freedom to explore, discover, and develop their own understanding.
 
 <a id="framework_zimmerman"></a>
 ## Self-Regulated Learning – Zimmerman
