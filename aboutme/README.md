@@ -19,7 +19,7 @@ A few months before my contract ended, I came across a teacher vacancy at Fontys
 - that what I have learned over my lifetime can be applied in a useful way. I worked hard most of my life with people around me that have equal skills. By now working with people who are younger and have less skills yet, I feel I can really contribute.
 
 My academic career allowed my to travel much, including trips to Germany, Venice, Madrid, Berlin, Prague and Valencia. Below are some pictures of me in foreign countries.
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="mermaid.jpg" width="200">
