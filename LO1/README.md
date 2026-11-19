@@ -5,6 +5,7 @@
 Guiding learning processes involves supporting students throughout their learning journey, encouraging independence, providing feedback, and selecting appropriate teaching methods. Two relevant frameworks are Self-Regulated Learning and the Zone of Proximal Development.
 
 ## Self-Regulated Learning – Zimmerman
+<a id="framework_zimmerman"></a>
 
 ```mermaid
 flowchart LR
@@ -31,6 +32,7 @@ The ultimate aim of the SRL framework is to help students become **independent, 
 **How I apply this framework:** My experience teaching Software Engineering, Functional Programming, and Systems Thinking at Fontys has shown me the importance of helping students structure their learning and monitor their own progress. When organising workshops and supervising internship students, I encourage learners to define objectives, divide complex tasks into manageable activities, evaluate their progress, and reflect on their results. I also apply this principle to my own professional development through academic research, professional activities, and online courses, including Udemy. I believe that students learn more effectively when they understand not only what they need to learn, but also how to manage and evaluate their own learning process.
 
 ## Zone of Proximal Development – Vygotsky
+<a id="framework_vygotsky"></a>
 
 ```mermaid
 flowchart TB
