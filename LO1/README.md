@@ -1,7 +1,7 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
 # LO1 Guiding Learning Processes
-The four Learning Outcomes
+The four Learning Outcomes:
 - LO1 Guiding Learning Processes
 - [LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md)
 - [LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md)
