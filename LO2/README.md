@@ -1,7 +1,7 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
 [LO1 Guiding Learning Processes](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md),
-LO2 Designing Education
+LO2 Designing Education,
 [LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md),
 [LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md)
 
