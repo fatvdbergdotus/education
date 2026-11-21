@@ -30,7 +30,7 @@ My approach to teaching combines structured instruction with opportunities for i
 
 I believe that students learn most effectively when they are actively involved in the learning process. Rather than relying exclusively on lectures and the transfer of information, I aim to create opportunities for students to apply concepts, investigate questions, discuss ideas, and develop their own solutions.
 
-I use different educational approaches depending on the context:
+I use different educational approaches, ranging from predictable to unpredictable and ranging from a limited choice of content to a free choice of content, depending on the context:
 
 - **Course-based learning**: I use structured teaching to establish a **common foundation of knowledge** and ensure that students acquire the essential concepts and skills required for a subject. By combining lectures, tutorials, practical exercises and assignments, I provide a clear learning structure in which theoretical knowledge is progressively connected to practical applications. This approach helps students develop a solid understanding of the subject matter and prepares them for more complex learning activities.
 - **Demand-based learning**: I recognise that students have different backgrounds, interests, levels of prior knowledge and learning needs. Where appropriate, I adapt learning activities, provide additional guidance and create opportunities for students to focus on **individual learning objectives**. By taking these differences into account, I aim to make education more relevant, accessible and effective, while allowing students to develop their competencies at an appropriate pace.
