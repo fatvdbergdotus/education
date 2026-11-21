@@ -48,6 +48,9 @@ Course-based learning is particularly appropriate when students need to acquire 
 
 I consider course-based learning an essential starting point, particularly when introducing students to a new subject or a technically complex discipline such as computer science. A clear structure provides students with guidance, establishes expectations, and ensures that everyone develops the necessary foundational knowledge. My experience teaching Software Engineering and Functional Programming has shown me the importance of introducing concepts progressively and combining theoretical explanations with practical exercises. However, I believe that structure should not become a limitation: students should also have opportunities to ask questions, explore alternative solutions, and investigate topics beyond the predefined curriculum.
 
+#### Useful resources
+[Constructive Alignment – John Biggs](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_biggs) and [Bloom's Taxonomy](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md#framework_bloom)
+
 ## Demand-based learning
 
 Demand-based learning is a student-centred approach in which educational activities are driven by students' individual needs, interests, and learning objectives. Students can identify **specific knowledge gaps** and seek relevant information, resources, or guidance to address them. The instructor acts primarily as a **facilitator**, supporting students in finding appropriate **learning materials** and **developing the skills** needed to solve problems independently.
@@ -59,6 +62,8 @@ Demand-based learning is particularly appropriate when students have different l
 #### My perspective
 
 I believe demand-based learning is particularly valuable because students do not all start from the same position or learn at the same pace. Their previous education, professional experience, interests, and ambitions influence what they need to learn. As an educator, I consider it important to recognise these differences and provide students with opportunities to address their individual learning needs. My own commitment to professional development, including taking online courses through Udemy, reflects my belief that learning should be driven partly by curiosity and the desire to acquire new skills. I see my role as helping students identify what they need to learn, guiding them towards suitable resources, and supporting them without taking away their responsibility for the learning process.
+
+#### Useful resources
 
 ## Research-based learning
 
@@ -72,6 +77,8 @@ Research-based learning is particularly appropriate when students need to develo
 
 Research-based learning is particularly close to my own academic and professional experience. Having completed two Master's degrees, a PhD, and three postdoctoral research appointments, I strongly believe that students should experience how knowledge is developed rather than simply learn established results. I encourage students to question assumptions, investigate alternative explanations, evaluate evidence, and recognise the limitations of their conclusions. One principle I consider especially important is that the more you know, the more you realise how much you do not know. Research-based learning helps students develop this intellectual humility and understand that uncertainty is not necessarily a weakness, but often the starting point for discovery. I believe this approach is particularly valuable in higher education, where students should gradually develop the confidence and skills to investigate problems independently.
 
+#### Useful resources
+
 ## Open learning
 
 Open learning is a flexible and accessible educational approach that gives students **greater autonomy over what, when, where, and how** they learn. It encourages independent learning through freely accessible educational resources, online courses, collaborative projects, and learning communities. Students can determine their own learning pace and explore subjects beyond the boundaries of a predefined curriculum. This approach promotes lifelong learning, self-motivation, adaptability, and responsibility for personal development.
@@ -83,3 +90,5 @@ Open learning is particularly appropriate when students need flexibility in term
 #### My perspective
 
 I strongly support open learning because I consider education a lifelong process that extends beyond formal academic programmes and institutional boundaries. Knowledge and technology evolve continuously, particularly in computer science, and professionals need to remain willing to update their skills and explore new areas. My own participation in online courses, including courses offered through Udemy, is an example of how I use open learning for continuous professional development. I believe that students should develop the ability to identify learning opportunities, select relevant resources, and take responsibility for their own development. At the same time, I recognise that open learning requires self-discipline and motivation. Therefore, I consider it important to provide guidance and encourage reflection, especially for students who are still developing their independent learning skills.
+
+#### Useful resources
