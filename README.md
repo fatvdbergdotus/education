@@ -40,5 +40,33 @@ This learning outcome focuses on designing, applying, and evaluating effective a
 
 Frameworks used: [Assessment for Learning – Black and Wiliam](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_black) and [The Feedback Model – Hattie and Timperley](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_hattie)
 
+Visually, the four Learning Outcomes are related to each other, as follows.
+flowchart TD
+    LO2["LO2: Designing Education<br/><br/>Define learning outcomes<br/>Design courses and activities<br/>Align teaching and assessment"]
+
+    LO1["LO1: Guiding Learning Processes<br/><br/>Apply educational approaches<br/>Guide and support students<br/>Facilitate learning"]
+
+    LO4["LO4: Examining and Assessing<br/><br/>Measure learning progress<br/>Evaluate learning outcomes<br/>Provide feedback and feedforward"]
+
+    LO3["LO3: Professional Development<br/><br/>Reflect on teaching practices<br/>Identify areas for improvement<br/>Develop teaching competencies"]
+
+    LO2 -->|"Learning activities and assessment design"| LO1
+    LO1 -->|"Student progress and learning evidence"| LO4
+    LO4 -->|"Assessment results and feedback"| LO3
+    LO3 -->|"Improved teaching practices"| LO2
+
+    LO2 -.->|"Assessment criteria"| LO4
+    LO4 -.->|"Feedback to guide students"| LO1
+
+    classDef design fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
+    classDef guiding fill:#dcfce7,stroke:#16a34a,color:#14532d
+    classDef assessing fill:#fef3c7,stroke:#d97706,color:#78350f
+    classDef development fill:#f3e8ff,stroke:#9333ea,color:#581c87
+
+    class LO1 guiding
+    class LO2 design
+    class LO3 development
+    class LO4 assessing
+
 # References
 - <a id="ref1"></a> [1] European Commission. (2013). *Supporting teacher competence development for better learning outcomes*. European Commission, Education and Training.
