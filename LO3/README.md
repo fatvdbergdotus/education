@@ -120,7 +120,7 @@ For example, I might introduce additional worked examples and divide a complex p
 
 The results of the trial then become the starting point for another cycle of reflection and improvement.
 
-### Application in teaching
+#### Application in teaching
 
 I consider the ALACT model particularly useful because teaching involves continuous interaction with students, changing circumstances, and different learning needs. Even carefully prepared educational activities do not always produce the expected results. Reflection provides an opportunity to understand these situations and improve future teaching activities.
 
