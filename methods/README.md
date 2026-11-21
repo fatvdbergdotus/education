@@ -38,7 +38,7 @@ Predictability describes how structured and predictable the learning environment
 
 ## Course-based learning
 
-Course-based learning is a **structured** educational approach in which students follow a predefined curriculum consisting of **lectures**, **tutorials**, **practical assignments**, and **assessments**. The learning objectives, content, and pace are primarily determined by the instructor or educational institution. This approach provides students with a systematic introduction to a subject, ensuring that essential theoretical knowledge and practical skills are acquired progressively.
+Course-based learning [[1]](#ref1) is a **structured** educational approach in which students follow a predefined curriculum consisting of **lectures**, **tutorials**, **practical assignments**, and **assessments**. The learning objectives, content, and pace are primarily determined by the instructor or educational institution. This approach provides students with a systematic introduction to a subject, ensuring that essential theoretical knowledge and practical skills are acquired progressively.
 
 #### When to apply
 
@@ -57,17 +57,16 @@ Demand-based learning is a student-centred approach in which educational activit
 
 #### When to apply
 
-Demand-based learning is particularly appropriate when students have different levels of prior knowledge, individual learning objectives, or specific knowledge gaps. It is useful in professional development, continuing education, personalised learning programmes, and situations where students need to acquire specific skills to address practical problems. It is especially effective when learners can identify their own learning needs and take responsibility for finding the knowledge and resources required to meet them.
+Demand-based learning [[2]](#ref2)[[3]](#ref3)
+ is particularly appropriate when students have different levels of prior knowledge, individual learning objectives, or specific knowledge gaps. It is useful in professional development, continuing education, personalised learning programmes, and situations where students need to acquire specific skills to address practical problems. It is especially effective when learners can identify their own learning needs and take responsibility for finding the knowledge and resources required to meet them.
 
 #### My perspective
 
 I believe demand-based learning is particularly valuable because students do not all start from the same position or learn at the same pace. Their previous education, professional experience, interests, and ambitions influence what they need to learn. As an educator, I consider it important to recognise these differences and provide students with opportunities to address their individual learning needs. My own commitment to professional development, including taking online courses through Udemy, reflects my belief that learning should be driven partly by curiosity and the desire to acquire new skills. I see my role as helping students identify what they need to learn, guiding them towards suitable resources, and supporting them without taking away their responsibility for the learning process.
 
-#### Useful resources
-
 ## Research-based learning
 
-Research-based learning integrates scientific research into the educational process, encouraging students to develop knowledge through **investigation**, **experimentation**, and **critical analysis**. Rather than relying exclusively on established theories and predefined answers, students **formulate research questions**, examine existing literature, collect and analyse data, and draw conclusions. This approach develops analytical thinking, problem-solving skills, scientific reasoning, and the ability to apply theoretical knowledge to real-world challenges.
+Research-based [[6]](#ref6)[[7]](#ref7) learning integrates scientific research into the educational process, encouraging students to develop knowledge through **investigation**, **experimentation**, and **critical analysis**. Rather than relying exclusively on established theories and predefined answers, students **formulate research questions**, examine existing literature, collect and analyse data, and draw conclusions. This approach develops analytical thinking, problem-solving skills, scientific reasoning, and the ability to apply theoretical knowledge to real-world challenges.
 
 #### When to apply
 
@@ -77,11 +76,9 @@ Research-based learning is particularly appropriate when students need to develo
 
 Research-based learning is particularly close to my own academic and professional experience. Having completed two Master's degrees, a PhD, and three postdoctoral research appointments, I strongly believe that students should experience how knowledge is developed rather than simply learn established results. I encourage students to question assumptions, investigate alternative explanations, evaluate evidence, and recognise the limitations of their conclusions. One principle I consider especially important is that the more you know, the more you realise how much you do not know. Research-based learning helps students develop this intellectual humility and understand that uncertainty is not necessarily a weakness, but often the starting point for discovery. I believe this approach is particularly valuable in higher education, where students should gradually develop the confidence and skills to investigate problems independently.
 
-#### Useful resources
-
 ## Open learning
 
-Open learning is a flexible and accessible educational approach that gives students **greater autonomy over what, when, where, and how** they learn. It encourages independent learning through freely accessible educational resources, online courses, collaborative projects, and learning communities. Students can determine their own learning pace and explore subjects beyond the boundaries of a predefined curriculum. This approach promotes lifelong learning, self-motivation, adaptability, and responsibility for personal development.
+Open learning [[4]](#ref4)[[5]](#ref5) is a flexible and accessible educational approach that gives students **greater autonomy over what, when, where, and how** they learn. It encourages independent learning through freely accessible educational resources, online courses, collaborative projects, and learning communities. Students can determine their own learning pace and explore subjects beyond the boundaries of a predefined curriculum. This approach promotes lifelong learning, self-motivation, adaptability, and responsibility for personal development.
 
 #### When to apply
 
@@ -91,4 +88,11 @@ Open learning is particularly appropriate when students need flexibility in term
 
 I strongly support open learning because I consider education a lifelong process that extends beyond formal academic programmes and institutional boundaries. Knowledge and technology evolve continuously, particularly in computer science, and professionals need to remain willing to update their skills and explore new areas. My own participation in online courses, including courses offered through Udemy, is an example of how I use open learning for continuous professional development. I believe that students should develop the ability to identify learning opportunities, select relevant resources, and take responsibility for their own development. At the same time, I recognise that open learning requires self-discipline and motivation. Therefore, I consider it important to provide guidance and encourage reflection, especially for students who are still developing their independent learning skills.
 
-#### Useful resources
+# Resources
+- <a id="ref1"></a> [1] Biggs, John. “Enhancing Teaching through Constructive Alignment.” Higher Education, vol. 32, no. 3, 1996, pp. 347–364.
+- <a id="ref2"></a> [2] Knowles, Malcolm S. Self-Directed Learning: A Guide for Learners and Teachers. Association Press, 1975.
+- <a id="ref3"></a> [3] CAST. Universal Design for Learning Guidelines. Version 3.0, CAST, 2024.
+- <a id="ref4"></a> [4] UNESCO. Recommendation on Open Educational Resources (OER). UNESCO, 2019.
+- <a id="ref5"></a> [5] UNESCO and Commonwealth of Learning. Guidelines for Open Educational Resources (OER) in Higher Education. UNESCO, 2015.
+- <a id="ref6"></a> [6] Healey, Mick. “Linking Research and Teaching: Exploring Disciplinary Spaces and the Role of Inquiry-Based Learning.” Reshaping the University: New Relationships between Research, Scholarship and Teaching, edited by Ronald Barnett, Open University Press, 2005, pp. 67–78.
+- <a id="ref7"></a> [7] Healey, Mick, and Alan Jenkins. Developing Undergraduate Research and Inquiry. Higher Education Academy, 2009.
