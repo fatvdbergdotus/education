@@ -1,11 +1,11 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
+LO1 Guiding Learning Processes,
+[LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md),
+[LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md),
+[LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md)
+
 # LO1 Guiding Learning Processes
-The four Learning Outcomes:
-- LO1 Guiding Learning Processes
-- [LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md)
-- [LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md)
-- [LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md)
 
 Guiding learning processes involves supporting students throughout their learning journey by **creating an engaging, structured, and supportive educational environment**. It requires understanding students'** prior knowledge**, **learning needs**, and **individual differences**, while selecting appropriate teaching methods and learning activities that encourage active participation, critical thinking, and independent learning. As a teacher, my role is not limited to transferring knowledge but also includes facilitating learning, providing guidance, encouraging collaboration, and helping students take responsibility for their own development.
 
