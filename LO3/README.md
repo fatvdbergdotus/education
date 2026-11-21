@@ -1,5 +1,10 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
+[LO1 Guiding Learning Processes](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md),
+[LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md),
+LO3 Professional Development as a Teacher,
+[LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md)
+
 # LO3 Professional Development as a Teacher
 
 Professional development as a teacher is a continuous process of **reflecting on teaching practices**, identifying **areas for improvement**, and **developing the knowledge, skills, and competencies** required to support students effectively. I believe that becoming a good teacher requires more than subject-matter expertise; it also involves pedagogical knowledge, communication skills, adaptability, and an openness to new perspectives. My academic and professional background in research has taught me the importance of **critical thinking**, **asking questions**, and continuously **expanding my knowledge**. I apply the same principles to teaching, recognising that professional development is an ongoing journey rather than a final destination.
