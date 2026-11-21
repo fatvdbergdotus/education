@@ -1,5 +1,10 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
+[LO1 Guiding Learning Processes](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md),
+LO2 Designing Education
+[LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md),
+[LO4 Examining and Assessing](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md)
+
 # LO2 Designing Education
 
 Designing education involves **developing** well-structured, coherent, and **effective learning experiences** that align with intended learning outcomes, students' needs, and the **requirements of the curriculum**. It requires translating educational objectives into meaningful learning activities, selecting appropriate teaching methods, and designing assessments that allow students to demonstrate their knowledge and skills. As a teacher, I believe that effective education should combine **theoretical foundations** with **practical applications**, enabling students to understand not only how concepts work but also why they are relevant and how they can be applied to real-world problems.
