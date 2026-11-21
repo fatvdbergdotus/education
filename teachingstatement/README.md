@@ -59,9 +59,9 @@ I consider assessment an integral part of the learning process rather than merel
 
 I distinguish between three complementary forms of assessment:
 
-- **Diagnostic assessment:** Used to identify students' prior knowledge, skills, and potential learning gaps before or during a learning activity.
-- **Formative assessment:** Used throughout the learning process to provide feedback and help students improve their understanding and performance.
-- **Summative assessment:** Used to evaluate whether students have achieved the intended learning outcomes at the end of a course or learning period.
+- **Diagnostic assessment**: Used to identify students' **existing knowledge**, skills, abilities and potential learning gaps before or at the beginning of a learning activity or course. It helps me understand students' starting points, recognise differences in prior knowledge and identify areas that may require additional attention. The results can be used to adapt teaching strategies and tailor learning activities to students' individual needs.
+- **Formative assessment**: Used throughout the learning process to monitor students' **progress**, provide constructive feedback and support continuous improvement. It helps both me and students identify strengths, recognise areas for improvement and adjust learning strategies when necessary. Examples include quizzes, classroom discussions, peer assessments, practical exercises and feedback on assignments.
+- **Summative assessment**: Used to evaluate the extent to which students have achieved the intended learning outcomes at the end of a course, module or learning period. It provides an overall judgement of students' knowledge, skills and competencies, usually through formal assessments such as examinations, final projects, presentations or practical assignments. The results are typically used for **grading**, **certification** or determining whether students have met the required academic standards.
 
 I aim to make assessment criteria transparent and ensure that students understand what is expected of them. Feedback should be constructive, specific, and actionable, allowing students to understand both what they have done well and how they can improve.
 
