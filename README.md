@@ -41,6 +41,7 @@ This learning outcome focuses on designing, applying, and evaluating effective a
 Frameworks used: [Assessment for Learning – Black and Wiliam](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_black) and [The Feedback Model – Hattie and Timperley](https://github.com/fatvdbergdotus/education/blob/main/LO4/README.md#framework_hattie)
 
 Visually, the four Learning Outcomes are related to each other, as follows.
+```mermaid
 flowchart TD
     LO2["LO2: Designing Education<br/><br/>Define learning outcomes<br/>Design courses and activities<br/>Align teaching and assessment"]
 
@@ -67,6 +68,7 @@ flowchart TD
     class LO2 design
     class LO3 development
     class LO4 assessing
+```
 
 # References
 - <a id="ref1"></a> [1] European Commission. (2013). *Supporting teacher competence development for better learning outcomes*. European Commission, Education and Training.
