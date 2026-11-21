@@ -101,7 +101,8 @@ For example, in a Software Engineering course, desired learning outcomes might i
 
 Defining these outcomes first establishes a clear direction for the entire course.
 
-The following table provides the different process levels of Bloom's taxonomy and illustrates each one of them using a Java/OOP example.
+<a id="framework_bloom"></a>
+The following table provides the different process levels of **Bloom's taxonomy** and illustrates each one of them using a Java/OOP example.
 
 | Level | Cognitive process | Main question | Example (Java / OOP) |
 |---|---|---|---|
