@@ -1,6 +1,6 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
-# Teaching Statement
+# Teaching Statement of Freek van den Berg
 
 ## 1. Teaching Philosophy
 
