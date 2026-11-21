@@ -1,5 +1,10 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
+[LO1 Guiding Learning Processes](https://github.com/fatvdbergdotus/education/blob/main/LO1/README.md),
+[LO2 Designing Education](https://github.com/fatvdbergdotus/education/blob/main/LO2/README.md),
+[LO3 Professional Development as a Teacher](https://github.com/fatvdbergdotus/education/blob/main/LO3/README.md),
+LO4 Examining and Assessing
+
 # LO4 Examining and Assessing
 Examining and Assessing focuses on designing, applying, and evaluating assessment methods to determine whether students have achieved the intended learning outcomes. It involves understanding the differences between diagnostic, formative, and summative assessment, and ensuring that examinations are valid, reliable, transparent, and fair. Teachers should select appropriate assessment methods that align with learning objectives and allow students to demonstrate their knowledge, skills, and competencies.
 
