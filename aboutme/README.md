@@ -1,6 +1,6 @@
 (c) 2026 Freek van den Berg. All rights reserved.
 
-# About Me
+# About Freek van den Berg
 
 My name is **Freek van den Berg**, and I was born in 1980. My father is a car mechanic, while my mother works as an assistant accountant. Both are naturally good with **numbers**, and I was fortunate enough to inherit this ability from them. In 2009, I passed the Mensa International test on numerical sequences. I would describe myself as passionate and **enthusiastic**, with a genuine interest in** making people feel comfortable** and having a good time. At the same time, I consider myself **modest** and down-to-earth, and I believe in **treating everyone equally**, regardless of their background or position.
 
