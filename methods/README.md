@@ -42,7 +42,7 @@ Course-based learning [[1]](#ref1) is a **structured** educational approach in w
 
 #### When to apply
 
-Course-based learning is particularly appropriate when students need to acquire a common foundation of theoretical knowledge and practical skills within a clearly defined subject area. It is suitable for introductory courses, standardised curricula, and subjects that require knowledge to be developed in a logical sequence. It is also useful when learning outcomes need to be consistent across different student groups and when progress must be assessed against predefined criteria.
+Course-based learning is particularly appropriate when students need to acquire a **common foundation of theoretical knowledge and practical skills** within a clearly defined subject area. It is suitable for introductory courses, standardised curricula, and subjects that require knowledge to be developed in a logical sequence. It is also useful when learning outcomes need to be consistent across different student groups and when progress must be assessed against predefined criteria.
 
 #### My perspective
 
@@ -53,12 +53,11 @@ I consider course-based learning an essential starting point, particularly when 
 
 ## Demand-based learning
 
-Demand-based learning is a student-centred approach in which educational activities are driven by students' individual needs, interests, and learning objectives. Students can identify **specific knowledge gaps** and seek relevant information, resources, or guidance to address them. The instructor acts primarily as a **facilitator**, supporting students in finding appropriate **learning materials** and **developing the skills** needed to solve problems independently.
+Demand-based learning [[2]](#ref2)[[3]](#ref3) is a student-centred approach in which educational activities are driven by students' individual needs, interests, and learning objectives. Students can identify **specific knowledge gaps** and seek relevant information, resources, or guidance to address them. The instructor acts primarily as a **facilitator**, supporting students in finding appropriate **learning materials** and **developing the skills** needed to solve problems independently.
 
 #### When to apply
 
-Demand-based learning [[2]](#ref2)[[3]](#ref3)
- is particularly appropriate when students have different levels of prior knowledge, individual learning objectives, or specific knowledge gaps. It is useful in professional development, continuing education, personalised learning programmes, and situations where students need to acquire specific skills to address practical problems. It is especially effective when learners can identify their own learning needs and take responsibility for finding the knowledge and resources required to meet them.
+Demand-based learning is particularly appropriate when students have **different levels of prior knowledge**, individual learning objectives, or specific knowledge gaps. It is useful in professional development, continuing education, personalised learning programmes, and situations where students need to acquire specific skills to address practical problems. It is especially effective when learners can identify their own learning needs and take responsibility for finding the knowledge and resources required to meet them.
 
 #### My perspective
 
@@ -70,7 +69,7 @@ Research-based [[6]](#ref6)[[7]](#ref7) learning integrates scientific research 
 
 #### When to apply
 
-Research-based learning is particularly appropriate when students need to develop analytical thinking, scientific reasoning, and independent problem-solving skills. It is suitable for higher education, research projects, laboratory work, thesis assignments, and project-based courses where students investigate complex or open-ended problems. It is especially valuable when students need to learn how to formulate research questions, evaluate scientific evidence, conduct experiments, and develop conclusions based on their findings.
+Research-based learning is particularly appropriate when students need to develop **analytical thinking**, scientific reasoning, and independent problem-solving skills. It is suitable for higher education, research projects, laboratory work, thesis assignments, and project-based courses where students investigate complex or open-ended problems. It is especially valuable when students need to learn how to formulate research questions, evaluate scientific evidence, conduct experiments, and develop conclusions based on their findings.
 
 #### My perspective
 
